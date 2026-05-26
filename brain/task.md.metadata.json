@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_TASK",
+  "summary": "รายการสิ่่งที่ต้องทำ (Tasks) ในการพัฒนาระบบจำแนกสัตว์ผ่าน Next.js และ LINE Bot ประกอบด้วยการตั้งค่า Environment, พัฒนา API integration (Gemini & LINE), เขียน API Routes และหน้าเว็บ UI พรีเมียม ตลอดจนขั้นตอนการทดสอบและสแกนจริง",
+  "updatedAt": "2026-05-26T16:08:29.832651500Z"
+}

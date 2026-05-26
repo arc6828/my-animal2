@@ -1,26 +1,123 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --background: #f4f7f5;
+  --foreground: #1c2621;
+  --card-bg: rgba(255, 255, 255, 0.8);
+  --card-border: rgba(16, 185, 129, 0.15);
+  --accent-primary: #059669;
+  --accent-secondary: #0d9488;
+  --glow-color: rgba(16, 185, 129, 0.2);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #090e0c;
+    --foreground: #ecfdf5;
+    --card-bg: rgba(15, 23, 20, 0.6);
+    --card-border: rgba(16, 185, 129, 0.1);
+    --accent-primary: #10b981;
+    --accent-secondary: #14b8a6;
+    --glow-color: rgba(16, 185, 129, 0.15);
   }
 }
 
 body {
-  background: var(--background);
+  background: radial-gradient(circle at 50% 0%, var(--glow-color) 0%, transparent 60%), var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Premium Glassmorphism Card */
+.premium-card {
+  background: var(--card-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--card-border);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.08);
+  border-radius: 24px;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.premium-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 20px 40px -15px rgba(16, 185, 129, 0.15);
+  border-color: rgba(16, 185, 129, 0.3);
+}
+
+/* Scan Scanner Animation */
+@keyframes scan-animation {
+  0% {
+    top: 0%;
+  }
+  50% {
+    top: 100%;
+  }
+  100% {
+    top: 0%;
+  }
+}
+
+.scanner-overlay {
+  position: relative;
+  overflow: hidden;
+}
+
+.scanner-line {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(to right, transparent, var(--accent-primary), transparent);
+  box-shadow: 0 0 15px 3px var(--accent-primary);
+  animation: scan-animation 3s linear infinite;
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* Shimmer/Pulse animations for loading states */
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 0.6;
+    box-shadow: 0 0 15px rgba(16, 185, 129, 0.3);
+  }
+  50% {
+    opacity: 1;
+    box-shadow: 0 0 30px rgba(16, 185, 129, 0.6);
+  }
+}
+
+.analyzing-pulse {
+  animation: pulse-glow 2s infinite ease-in-out;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(16, 185, 129, 0.2);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(16, 185, 129, 0.4);
+}
+
+/* Custom glow effects */
+.text-glow {
+  text-shadow: 0 0 12px rgba(16, 185, 129, 0.4);
+}
+
+/* Tab Active underline gradient */
+.tab-active-gradient {
+  background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
 }

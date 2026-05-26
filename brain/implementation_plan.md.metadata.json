@@ -1,0 +1,6 @@
+{
+  "artifactType": "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary": "แผนการพัฒนาระบบจำแนกสัตว์ผ่านเว็บ (Next.js Dashboard) และ LINE Bot โดยใช้ Gemini API วิเคราะห์ข้อมูลจากรูปภาพ มีการกำหนดส่วนประกอบการทำงาน คอนฟิกูเรชัน และการตรวจสอบความถูกต้อง เพื่อขอรับการยืนยันจากผู้ใช้ก่อนเริ่มดำเนินงาน",
+  "updatedAt": "2026-05-26T15:30:52.614633700Z",
+  "requestFeedback": true
+}

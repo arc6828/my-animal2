@@ -1,0 +1,28 @@
+# Tasks: Animal Recognition via Web & LINE Bot
+
+- `[x]` 1. Setup Configuration & Environment
+  - `[x]` Create `.env.template`
+  - `[x]` Document API key requirements (Gemini API, LINE Channel Access Token, LINE Channel Secret)
+- `[x]` 2. Library & Integration Layer
+  - `[x]` Implement `lib/gemini.ts` using native fetch for Gemini API
+    - `[x]` Define JSON Schema for structured animal analysis
+    - `[x]` Define structured prompt & output format for LINE Chatbot
+  - `[x]` Implement `lib/line.ts`
+    - `[x]` Signature verification (`x-line-signature`)
+    - `[x]` Download image content by `messageId`
+    - `[x]` Send Reply Message API call
+- `[x]` 3. Backend API Routes
+  - `[x]` Create `app/api/recognize/route.ts` (Web recognition API)
+  - `[x]` Create `app/api/line-webhook/route.ts` (LINE webhook listener)
+- `[x]` 4. Premium Dashboard Frontend
+  - `[x]` Update `app/globals.css` with a premium color palette, animations, and custom styling
+  - `[x]` Update `app/page.tsx` with premium dashboard UI
+    - `[x]` Upload & Camera mode components
+    - `[x]` Processing/Analysis loader animation
+    - `[x]` Detailed animal information display (Thai name, Scientific name, Conservation label, tabs for details/facts)
+    - `[x]` Scan history gallery using LocalStorage
+    - `[x]` LINE bot configuration instructions & QR Code card
+- `[x]` 5. Verification & Testing
+  - `[x]` Verify web recognition API
+  - `[x]` Mock test LINE webhook
+  - `[x]` Run build to check for compilation/lint issues
