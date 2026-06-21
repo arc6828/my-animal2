@@ -3,23 +3,11 @@
 :root {
   --background: #f4f7f5;
   --foreground: #1c2621;
-  --card-bg: rgba(255, 255, 255, 0.8);
-  --card-border: rgba(16, 185, 129, 0.15);
+  --card-bg: rgba(255, 255, 255, 0.85);
+  --card-border: rgba(5, 150, 105, 0.12);
   --accent-primary: #059669;
   --accent-secondary: #0d9488;
-  --glow-color: rgba(16, 185, 129, 0.2);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #090e0c;
-    --foreground: #ecfdf5;
-    --card-bg: rgba(15, 23, 20, 0.6);
-    --card-border: rgba(16, 185, 129, 0.1);
-    --accent-primary: #10b981;
-    --accent-secondary: #14b8a6;
-    --glow-color: rgba(16, 185, 129, 0.15);
-  }
+  --glow-color: rgba(5, 150, 105, 0.08);
 }
 
 body {

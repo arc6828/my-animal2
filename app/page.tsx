@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import Link from "next/link";
 
 interface AnimalAnalysisResult {
   isAnimal: boolean;
@@ -244,7 +245,7 @@ export default function Home() {
     if (text.includes("ex") || text.includes("ew") || text.includes("สูญพันธุ์")) {
       return {
         label: status,
-        bg: "bg-red-500/10 text-red-500 border border-red-500/20",
+        bg: "bg-red-50 text-red-600 border border-red-200",
         desc: "สูญพันธุ์แล้ว (Extinct)"
       };
     }
@@ -252,21 +253,21 @@ export default function Home() {
     if (text.includes("cr") || text.includes("วิกฤต") || text.includes("เสี่ยงขั้นวิกฤต")) {
       return {
         label: status,
-        bg: "bg-orange-600/10 text-orange-500 border border-orange-600/20",
+        bg: "bg-orange-50 text-orange-600 border border-orange-200",
         desc: "ใกล้สูญพันธุ์อย่างยิ่งยวด (Critically Endangered)"
       };
     }
     if (text.includes("en") || text.includes("ใกล้สูญพันธุ์")) {
       return {
         label: status,
-        bg: "bg-orange-500/10 text-orange-400 border border-orange-500/20",
+        bg: "bg-orange-50 text-orange-600 border border-orange-200",
         desc: "ใกล้สูญพันธุ์ (Endangered)"
       };
     }
     if (text.includes("vu") || text.includes("มีแนวโน้มสูญพันธุ์")) {
       return {
         label: status,
-        bg: "bg-amber-500/10 text-amber-400 border border-amber-500/20",
+        bg: "bg-amber-50 text-amber-700 border border-amber-200",
         desc: "มีแนวโน้มใกล้สูญพันธุ์ (Vulnerable)"
       };
     }
@@ -274,7 +275,7 @@ export default function Home() {
     if (text.includes("nt") || text.includes("ใกล้ถูกคุกคาม")) {
       return {
         label: status,
-        bg: "bg-yellow-500/10 text-yellow-400 border border-yellow-500/20",
+        bg: "bg-yellow-50 text-yellow-700 border border-yellow-200",
         desc: "ใกล้ถูกคุกคาม (Near Threatened)"
       };
     }
@@ -282,14 +283,14 @@ export default function Home() {
     if (text.includes("lc") || text.includes("ปลอดภัย") || text.includes("กังวลน้อยที่สุด")) {
       return {
         label: status,
-        bg: "bg-emerald-500/10 text-emerald-400 border border-emerald-500/20",
+        bg: "bg-emerald-50 text-emerald-700 border border-emerald-200",
         desc: "ความเสี่ยงต่ำ / มีความกังวลน้อยที่สุด (Least Concern)"
       };
     }
     if (text.includes("domestic") || text.includes("เลี้ยง") || text.includes("สัตว์บ้าน")) {
       return {
         label: status,
-        bg: "bg-sky-500/10 text-sky-400 border border-sky-500/20",
+        bg: "bg-sky-50 text-sky-700 border border-sky-200",
         desc: "สัตว์เลี้ยงในครัวเรือน (Domesticated)"
       };
     }
@@ -297,7 +298,7 @@ export default function Home() {
     // Default Fallback
     return {
       label: status,
-      bg: "bg-zinc-500/10 text-zinc-400 border border-zinc-500/20",
+      bg: "bg-zinc-100 text-zinc-600 border border-zinc-200",
       desc: "ไม่ทราบสถานะแน่ชัด"
     };
   };
@@ -305,21 +306,27 @@ export default function Home() {
   return (
     <div className="flex-1 min-h-screen flex flex-col antialiased">
       {/* Top Header Navbar */}
-      <header className="sticky top-0 z-50 w-full backdrop-blur-lg bg-zinc-950/70 border-b border-emerald-950/30">
+      <header className="sticky top-0 z-50 w-full backdrop-blur-lg bg-white/70 border-b border-emerald-100/40 shadow-sm shadow-emerald-500/5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="h-10 w-10 rounded-xl bg-gradient-to-tr from-emerald-600 to-teal-500 flex items-center justify-center shadow-lg shadow-emerald-500/20">
+            <div className="h-10 w-10 rounded-xl bg-gradient-to-tr from-emerald-600 to-teal-500 flex items-center justify-center shadow-lg shadow-emerald-500/10">
               <span className="text-xl">🐾</span>
             </div>
             <div>
-              <h1 className="font-bold text-lg text-white tracking-tight flex items-center gap-1.5">
-                FaunaLens <span className="text-xs bg-emerald-500/10 text-emerald-400 px-2 py-0.5 rounded-full border border-emerald-500/20 font-medium">v1.0</span>
+              <h1 className="font-bold text-lg text-zinc-800 tracking-tight flex items-center gap-1.5">
+                SmartZoo <span className="text-xs bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full border border-emerald-200/50 font-medium">v1.0</span>
               </h1>
-              <p className="text-[10px] text-zinc-400">AI-Powered Animal Recognition</p>
+              <p className="text-[10px] text-zinc-500">AI-Powered Animal Recognition</p>
             </div>
           </div>
           <div className="flex items-center gap-4">
-            <span className="text-xs text-zinc-400 hidden sm:inline-block">วิเคราะห์สายพันธุ์สัตว์ป่าและสัตว์เลี้ยงอย่างรวดเร็ว</span>
+            <span className="text-xs text-zinc-500 hidden sm:inline-block">วิเคราะห์สายพันธุ์สัตว์ป่าและสัตว์เลี้ยงอย่างรวดเร็ว</span>
+            <Link
+              href="/about"
+              className="text-xs font-semibold text-emerald-600 hover:text-emerald-700 bg-emerald-50 hover:bg-emerald-100/70 px-3 py-1.5 rounded-lg border border-emerald-100 transition-colors flex items-center gap-1.5"
+            >
+              <span>📖</span> เกี่ยวกับโครงการ
+            </Link>
           </div>
         </div>
       </header>
@@ -334,10 +341,10 @@ export default function Home() {
             {/* Analyzer Container (Upload / Cam Area) */}
             <div className="premium-card p-6 flex flex-col gap-5">
               <div className="flex items-center justify-between">
-                <h2 className="text-base font-semibold text-emerald-500 flex items-center gap-2">
+                <h2 className="text-base font-semibold text-emerald-600 flex items-center gap-2">
                   <span>📷</span> เครื่องมือสแกนสัตว์
                 </h2>
-                <div className="flex gap-1.5 bg-zinc-900/50 p-1 rounded-lg border border-zinc-800">
+                <div className="flex gap-1.5 bg-zinc-100 p-1 rounded-lg border border-zinc-200">
                   <button
                     onClick={() => {
                       stopCamera();
@@ -346,7 +353,7 @@ export default function Home() {
                       setError(null);
                     }}
                     className={`text-xs px-3 py-1.5 rounded-md font-medium transition-colors ${
-                      !cameraActive ? "bg-emerald-600 text-white" : "text-zinc-400 hover:text-zinc-200"
+                      !cameraActive ? "bg-emerald-600 text-white" : "text-zinc-500 hover:text-zinc-800"
                     }`}
                   >
                     อัปโหลดรูป
@@ -354,7 +361,7 @@ export default function Home() {
                   <button
                     onClick={startCamera}
                     className={`text-xs px-3 py-1.5 rounded-md font-medium transition-colors ${
-                      cameraActive ? "bg-emerald-600 text-white" : "text-zinc-400 hover:text-zinc-200"
+                      cameraActive ? "bg-emerald-600 text-white" : "text-zinc-500 hover:text-zinc-800"
                     }`}
                   >
                     เปิดกล้องสด
@@ -366,7 +373,7 @@ export default function Home() {
               <div
                 onDragOver={handleDragOver}
                 onDrop={handleDrop}
-                className="relative aspect-square w-full rounded-2xl border-2 border-dashed border-emerald-950/40 bg-zinc-950/40 overflow-hidden flex flex-col items-center justify-center transition-all group hover:border-emerald-600/30"
+                className="relative aspect-square w-full rounded-2xl border-2 border-dashed border-emerald-200/60 bg-white/40 overflow-hidden flex flex-col items-center justify-center transition-all group hover:border-emerald-500/30"
               >
                 {cameraActive ? (
                   /* Live Camera Preview */
@@ -392,7 +399,7 @@ export default function Home() {
                   </div>
                 ) : image ? (
                   /* Display Uploaded/Captured Image */
-                  <div className="relative w-full h-full flex items-center justify-center bg-zinc-950">
+                  <div className="relative w-full h-full flex items-center justify-center bg-zinc-50">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
                       src={image}
@@ -404,12 +411,12 @@ export default function Home() {
                     {analyzing && (
                       <>
                         <div className="scanner-line"></div>
-                        <div className="absolute inset-0 bg-emerald-950/10 backdrop-blur-[1px] flex flex-col items-center justify-center z-10">
-                          <div className="analyzing-pulse h-20 w-20 rounded-full bg-emerald-500/20 flex items-center justify-center border border-emerald-500/40">
+                        <div className="absolute inset-0 bg-emerald-50/10 backdrop-blur-[1px] flex flex-col items-center justify-center z-10">
+                          <div className="analyzing-pulse h-20 w-20 rounded-full bg-emerald-500/10 flex items-center justify-center border border-emerald-500/20">
                             <span className="text-3xl animate-bounce">🔬</span>
                           </div>
-                          <p className="mt-4 text-sm font-semibold text-emerald-400 text-glow">กำลังวิเคราะห์สัตว์ในภาพ...</p>
-                          <p className="text-[11px] text-zinc-400 mt-1">ใช้เวลาประมาณ 2-4 วินาที</p>
+                          <p className="mt-4 text-sm font-semibold text-emerald-700 text-glow">กำลังวิเคราะห์สัตว์ในภาพ...</p>
+                          <p className="text-[11px] text-zinc-500 mt-1">ใช้เวลาประมาณ 2-4 วินาที</p>
                         </div>
                       </>
                     )}
@@ -418,18 +425,18 @@ export default function Home() {
                   /* Upload Placeholder State */
                   <div
                     onClick={() => fileInputRef.current?.click()}
-                    className="cursor-pointer text-center p-6 flex flex-col items-center gap-4 w-full h-full justify-center group-hover:bg-emerald-950/5 transition-all"
+                    className="cursor-pointer text-center p-6 flex flex-col items-center gap-4 w-full h-full justify-center group-hover:bg-emerald-50/5 transition-all"
                   >
-                    <div className="h-16 w-16 rounded-2xl bg-emerald-950/20 text-emerald-400 flex items-center justify-center border border-emerald-500/10 shadow-inner group-hover:scale-105 transition-transform duration-300">
+                    <div className="h-16 w-16 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center border border-emerald-100 shadow-inner group-hover:scale-105 transition-transform duration-300">
                       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
                       </svg>
                     </div>
                     <div>
-                      <p className="font-semibold text-zinc-300 group-hover:text-emerald-400 transition-colors">ลากและวางรูปภาพที่นี่</p>
+                      <p className="font-semibold text-zinc-700 group-hover:text-emerald-600 transition-colors">ลากและวางรูปภาพที่นี่</p>
                       <p className="text-xs text-zinc-500 mt-1">หรือคลิกเพื่อเลือกไฟล์รูปภาพจากระบบ</p>
                     </div>
-                    <span className="text-[10px] text-zinc-500 border border-zinc-800 bg-zinc-900/60 px-3 py-1 rounded-full">
+                    <span className="text-[10px] text-zinc-500 border border-zinc-200 bg-zinc-100/60 px-3 py-1 rounded-full">
                       รองรับ JPG, PNG, WEBP
                     </span>
                   </div>
@@ -449,7 +456,7 @@ export default function Home() {
                 <div className="flex gap-3 mt-1">
                   <button
                     onClick={() => fileInputRef.current?.click()}
-                    className="flex-1 py-2.5 rounded-xl border border-zinc-800 hover:bg-zinc-900/80 transition-colors text-xs font-semibold text-zinc-300 flex items-center justify-center gap-1.5"
+                    className="flex-1 py-2.5 rounded-xl border border-zinc-200 hover:bg-zinc-100 text-xs font-semibold text-zinc-600 flex items-center justify-center gap-1.5 transition-colors"
                   >
                     <span>🔄</span> เลือกภาพใหม่
                   </button>
@@ -464,7 +471,7 @@ export default function Home() {
 
               {/* Error Alert Box */}
               {error && (
-                <div className="p-4 rounded-xl bg-red-950/20 border border-red-500/20 text-red-400 text-xs flex items-start gap-2.5">
+                <div className="p-4 rounded-xl bg-red-50 border border-red-200 text-red-600 text-xs flex items-start gap-2.5">
                   <span className="text-base leading-none">⚠️</span>
                   <div>
                     <span className="font-semibold block mb-0.5">การทำงานขัดข้อง</span>
@@ -477,20 +484,20 @@ export default function Home() {
             {/* LINE Bot Integration Panel */}
             <div className="premium-card p-6 flex flex-col gap-4">
               <div className="flex items-center justify-between">
-                <h2 className="text-sm font-semibold text-emerald-500 flex items-center gap-2">
+                <h2 className="text-sm font-semibold text-emerald-600 flex items-center gap-2">
                   <span>💬</span> LINE Chatbot Integration
                 </h2>
-                <span className="text-[10px] bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2.5 py-0.5 rounded-full font-semibold">
+                <span className="text-[10px] bg-emerald-100 text-emerald-700 border border-emerald-200/50 px-2.5 py-0.5 rounded-full font-semibold">
                   @316rmguu
                 </span>
               </div>
-              <p className="text-xs text-zinc-400 leading-relaxed">
+              <p className="text-xs text-zinc-600 leading-relaxed">
                 คุณสามารถนำระบบจำแนกสัตว์นี้ไปเชื่อมต่อเข้ากับ **LINE Chatbot** หรือทดสอบใช้งานผ่านบอทจำแนกสัตว์ของเราโดยตรงได้ทันที
               </p>
 
               {/* QR Code and Quick Add Section */}
-              <div className="flex flex-col sm:flex-row items-center gap-4 p-4 rounded-xl bg-zinc-950/40 border border-zinc-900">
-                <div className="bg-white p-2 rounded-lg shrink-0">
+              <div className="flex flex-col sm:flex-row items-center gap-4 p-4 rounded-xl bg-zinc-50 border border-zinc-200/80">
+                <div className="bg-white p-2 rounded-lg shrink-0 border border-zinc-100">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     src="https://qr-official.line.me/sid/M/316rmguu.png"
@@ -499,8 +506,8 @@ export default function Home() {
                   />
                 </div>
                 <div className="flex-1 text-center sm:text-left">
-                  <p className="text-xs font-bold text-white">ทดสอบผ่าน LINE จริง</p>
-                  <p className="text-[11px] text-zinc-400 mt-1">
+                  <p className="text-xs font-bold text-zinc-800">ทดสอบผ่าน LINE จริง</p>
+                  <p className="text-[11px] text-zinc-500 mt-1">
                     สแกน QR Code หรือแอดไลน์ไอดี เพื่อส่งรูปสัตว์เข้ามาวิเคราะห์ในแชท
                   </p>
                   <div className="mt-3 flex flex-wrap justify-center sm:justify-start gap-2">
@@ -512,33 +519,33 @@ export default function Home() {
                     >
                       <span>➕</span> เพิ่มเพื่อนใน LINE
                     </a>
-                    <span className="bg-zinc-900 text-zinc-300 text-[11px] font-mono px-3 py-1.5 rounded-lg border border-zinc-800 flex items-center select-all">
+                    <span className="bg-zinc-100 text-zinc-700 text-[11px] font-mono px-3 py-1.5 rounded-lg border border-zinc-200 flex items-center select-all">
                       @316rmguu
                     </span>
                   </div>
                 </div>
               </div>
               
-              <div className="bg-zinc-950/60 p-4 rounded-xl border border-zinc-900 flex flex-col gap-3 text-xs">
-                <div className="flex justify-between items-center text-[10px] text-emerald-400 font-semibold uppercase tracking-wider">
+              <div className="bg-zinc-50/80 p-4 rounded-xl border border-zinc-200/60 flex flex-col gap-3 text-xs">
+                <div className="flex justify-between items-center text-[10px] text-emerald-600 font-semibold uppercase tracking-wider">
                   <span>ขั้นตอนการเชื่อมต่อบอทของคุณเอง</span>
-                  <span className="bg-zinc-800 text-zinc-400 px-1.5 py-0.5 rounded">Local Test</span>
+                  <span className="bg-zinc-200 text-zinc-600 px-1.5 py-0.5 rounded">Local Test</span>
                 </div>
                 
-                <ol className="list-decimal list-inside space-y-2 text-zinc-300">
+                <ol className="list-decimal list-inside space-y-2 text-zinc-600">
                   <li>
                     เปิดรันเซิร์ฟเวอร์ในเครื่องคอมพิวเตอร์ของคุณ
                   </li>
                   <li>
                     เปิด HTTPS Tunnel ผ่าน **ngrok**:
-                    <code className="block bg-zinc-900 text-emerald-400 px-2 py-1 rounded mt-1 select-all font-mono border border-emerald-950/30">
+                    <code className="block bg-emerald-50 text-emerald-700 px-2 py-1 rounded mt-1 select-all font-mono border border-emerald-100">
                       ngrok http 3000
                     </code>
                   </li>
                   <li>
                     คัดลอก HTTPS URL ที่ได้จาก ngrok ไประบุเป็น Webhook URL ใน LINE Developers:
-                    <code className="block bg-zinc-900 text-zinc-300 px-2 py-1 rounded mt-1 select-all break-all font-mono border border-zinc-800">
-                      {ngrokUrl ? `${ngrokUrl.replace("localhost:3000", "your-subdomain.ngrok-free.app")}/api/line-webhook` : "https://[your-ngrok-url]/api/line-webhook"}
+                    <code className="block bg-zinc-100 text-zinc-700 px-2 py-1 rounded mt-1 select-all break-all font-mono border border-zinc-200">
+                      {ngrokUrl ? `${ngrokUrl.includes("localhost") ? ngrokUrl.replace("localhost:3000", "your-subdomain.ngrok-free.app") : ngrokUrl}/api/line-webhook` : "https://smartzoo.ckartisan.com/api/line-webhook"}
                     </code>
                   </li>
                   <li>
@@ -561,13 +568,13 @@ export default function Home() {
                 <div className="flex-1 flex flex-col gap-6">
                   
                   {/* Result Header */}
-                  <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-zinc-900">
+                  <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-5 border-b border-zinc-100">
                     <div>
                       <div className="flex items-center gap-2.5">
-                        <h2 className="text-2xl font-bold text-white tracking-tight">{result.nameTh}</h2>
-                        <span className="text-sm font-semibold text-zinc-400">({result.nameEn})</span>
+                        <h2 className="text-2xl font-bold text-zinc-800 tracking-tight">{result.nameTh}</h2>
+                        <span className="text-sm font-semibold text-zinc-500">({result.nameEn})</span>
                       </div>
-                      <p className="text-xs text-emerald-500 font-medium italic mt-1 font-mono">
+                      <p className="text-xs text-emerald-600 font-medium italic mt-1 font-mono">
                         {result.scientificName}
                       </p>
                     </div>
@@ -589,7 +596,7 @@ export default function Home() {
                   </div>
 
                   {/* Tabs Navigation */}
-                  <div className="flex border-b border-zinc-900/60 p-0.5 bg-zinc-950/20 rounded-lg">
+                  <div className="flex border-b border-zinc-200/60 p-0.5 bg-zinc-100/80 rounded-lg">
                     {([
                       { id: "details", label: "📄 ข้อมูลทั่วไป" },
                       { id: "facts", label: "💡 เรื่องน่ารู้ (Facts)" },
@@ -600,8 +607,8 @@ export default function Home() {
                         onClick={() => setActiveTab(tab.id)}
                         className={`flex-1 py-2 text-center text-xs font-semibold rounded-md transition-all ${
                           activeTab === tab.id
-                            ? "bg-zinc-900 text-emerald-400 shadow-sm"
-                            : "text-zinc-400 hover:text-zinc-300"
+                            ? "bg-white text-emerald-600 shadow-sm border border-emerald-100/40"
+                            : "text-zinc-500 hover:text-zinc-800"
                         }`}
                       >
                         {tab.label}
@@ -616,8 +623,8 @@ export default function Home() {
                     {activeTab === "details" && (
                       <div className="space-y-6">
                         <div className="space-y-2">
-                          <h3 className="text-xs font-bold text-emerald-500 uppercase tracking-wider">คำอธิบายสายพันธุ์</h3>
-                          <p className="text-sm text-zinc-300 leading-relaxed font-sans">
+                          <h3 className="text-xs font-bold text-emerald-600 uppercase tracking-wider">คำอธิบายสายพันธุ์</h3>
+                          <p className="text-sm text-zinc-600 leading-relaxed font-sans">
                             {result.description}
                           </p>
                         </div>
@@ -625,28 +632,28 @@ export default function Home() {
                         {/* Grid Info Boxes */}
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                           
-                          <div className="bg-zinc-950/40 p-4 rounded-xl border border-zinc-900 flex flex-col gap-1.5">
-                            <div className="flex items-center gap-1.5 text-emerald-500">
+                          <div className="bg-zinc-50/80 p-4 rounded-xl border border-zinc-200/60 flex flex-col gap-1.5">
+                            <div className="flex items-center gap-1.5 text-emerald-600">
                               <span className="text-base">🏡</span>
                               <span className="text-xs font-bold uppercase tracking-wider">ถิ่นอาศัย</span>
                             </div>
-                            <p className="text-xs text-zinc-300 leading-relaxed">{result.habitat}</p>
+                            <p className="text-xs text-zinc-600 leading-relaxed">{result.habitat}</p>
                           </div>
 
-                          <div className="bg-zinc-950/40 p-4 rounded-xl border border-zinc-900 flex flex-col gap-1.5">
-                            <div className="flex items-center gap-1.5 text-emerald-500">
+                          <div className="bg-zinc-50/80 p-4 rounded-xl border border-zinc-200/60 flex flex-col gap-1.5">
+                            <div className="flex items-center gap-1.5 text-emerald-600">
                               <span className="text-base">🥩</span>
                               <span className="text-xs font-bold uppercase tracking-wider">พฤติกรรมการกิน</span>
                             </div>
-                            <p className="text-xs text-zinc-300 leading-relaxed">{result.diet}</p>
+                            <p className="text-xs text-zinc-600 leading-relaxed">{result.diet}</p>
                           </div>
 
-                          <div className="bg-zinc-950/40 p-4 rounded-xl border border-zinc-900 flex flex-col gap-1.5">
-                            <div className="flex items-center gap-1.5 text-emerald-500">
+                          <div className="bg-zinc-50/80 p-4 rounded-xl border border-zinc-200/60 flex flex-col gap-1.5">
+                            <div className="flex items-center gap-1.5 text-emerald-600">
                               <span className="text-base">⏳</span>
                               <span className="text-xs font-bold uppercase tracking-wider">อายุขัยเฉลี่ย</span>
                             </div>
-                            <p className="text-xs text-zinc-300 leading-relaxed">{result.lifespan}</p>
+                            <p className="text-xs text-zinc-600 leading-relaxed">{result.lifespan}</p>
                           </div>
 
                         </div>
@@ -656,17 +663,17 @@ export default function Home() {
                     {/* Tab 2: Fun Facts */}
                     {activeTab === "facts" && (
                       <div className="space-y-4">
-                        <h3 className="text-xs font-bold text-emerald-500 uppercase tracking-wider mb-2">เรื่องน่าทึ่ง 3 ข้อ</h3>
+                        <h3 className="text-xs font-bold text-emerald-600 uppercase tracking-wider mb-2">เรื่องน่าทึ่ง 3 ข้อ</h3>
                         <div className="space-y-3">
                           {result.funFacts.map((fact, i) => (
                             <div
                               key={i}
-                              className="p-4 rounded-xl bg-gradient-to-r from-emerald-950/10 to-teal-950/10 border border-emerald-950/20 flex gap-3 items-start"
+                              className="p-4 rounded-xl bg-gradient-to-r from-emerald-50/40 to-teal-50/40 border border-emerald-100/50 flex gap-3 items-start"
                             >
-                              <span className="h-6 w-6 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 flex items-center justify-center text-xs font-bold shrink-0">
+                              <span className="h-6 w-6 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-600 flex items-center justify-center text-xs font-bold shrink-0">
                                 {i + 1}
                               </span>
-                              <p className="text-xs text-zinc-300 leading-relaxed">{fact}</p>
+                              <p className="text-xs text-zinc-600 leading-relaxed">{fact}</p>
                             </div>
                           ))}
                         </div>
@@ -676,8 +683,8 @@ export default function Home() {
                     {/* Tab 3: Taxonomy */}
                     {activeTab === "taxonomy" && (
                       <div className="space-y-4">
-                        <h3 className="text-xs font-bold text-emerald-500 uppercase tracking-wider mb-2">โครงสร้างการจำแนกชั้นทางวิทยาศาสตร์</h3>
-                        <div className="bg-zinc-950/30 rounded-2xl border border-zinc-900 overflow-hidden text-xs">
+                        <h3 className="text-xs font-bold text-emerald-600 uppercase tracking-wider mb-2">โครงสร้างการจำแนกชั้นทางวิทยาศาสตร์</h3>
+                        <div className="bg-zinc-50/50 rounded-2xl border border-zinc-100 overflow-hidden text-xs">
                           {[
                             { key: "Kingdom / อาณาจักร", value: result.kingdom || "Animalia" },
                             { key: "Phylum / ไฟลัม", value: result.phylum },
@@ -690,11 +697,11 @@ export default function Home() {
                             <div
                               key={idx}
                               className={`flex justify-between p-3.5 ${
-                                idx % 2 === 0 ? "bg-zinc-950/20" : ""
-                              } border-b border-zinc-900 last:border-b-0`}
+                                idx % 2 === 0 ? "bg-zinc-100/30" : ""
+                              } border-b border-zinc-100 last:border-b-0`}
                             >
-                              <span className="text-zinc-400 font-medium">{item.key}</span>
-                              <span className="text-white font-semibold font-mono">{item.value || "ไม่ระบุ"}</span>
+                              <span className="text-zinc-500 font-medium">{item.key}</span>
+                              <span className="text-zinc-800 font-semibold font-mono">{item.value || "ไม่ระบุ"}</span>
                             </div>
                           ))}
                         </div>
@@ -707,11 +714,11 @@ export default function Home() {
               ) : (
                 /* Empty/Initial Landing State */
                 <div className="flex-1 flex flex-col items-center justify-center text-center p-8">
-                  <div className="h-20 w-20 rounded-full bg-emerald-950/20 border border-emerald-500/10 flex items-center justify-center text-3xl mb-6 shadow-inner animate-pulse">
+                  <div className="h-20 w-20 rounded-full bg-emerald-50 border border-emerald-100 flex items-center justify-center text-3xl mb-6 shadow-inner animate-pulse">
                     🦄
                   </div>
-                  <h3 className="text-lg font-bold text-white tracking-tight">พร้อมเริ่มต้นจำแนกสัตว์</h3>
-                  <p className="text-xs text-zinc-400 max-w-sm mt-2 leading-relaxed">
+                  <h3 className="text-lg font-bold text-zinc-800 tracking-tight">พร้อมเริ่มต้นจำแนกสัตว์</h3>
+                  <p className="text-xs text-zinc-500 max-w-sm mt-2 leading-relaxed">
                     อัปโหลดรูปภาพสัตว์หรือใช้โหมดเปิดกล้องถ่ายภาพสัตว์ ระบบ AI ของ Gemini จะเริ่มจำแนกและดึงฐานข้อมูลชีววิทยามาให้แสดงที่นี่โดยอัตโนมัติ
                   </p>
                 </div>
@@ -722,7 +729,7 @@ export default function Home() {
             {/* Scan History Gallery Panel */}
             <div className="premium-card p-6 flex flex-col gap-4">
               <div className="flex items-center justify-between">
-                <h2 className="text-sm font-semibold text-emerald-500 flex items-center gap-2">
+                <h2 className="text-sm font-semibold text-emerald-600 flex items-center gap-2">
                   <span>⏳</span> ประวัติการจำแนกสัตว์ ({history.length})
                 </h2>
                 {history.length > 0 && (
@@ -745,9 +752,9 @@ export default function Home() {
                         setImage(item.image);
                         setCameraActive(false);
                       }}
-                      className="group cursor-pointer bg-zinc-950/40 border border-zinc-900 hover:border-emerald-500/30 rounded-xl overflow-hidden flex flex-col relative"
+                      className="group cursor-pointer bg-zinc-50/55 border border-zinc-100 hover:border-emerald-200 rounded-xl overflow-hidden flex flex-col relative"
                     >
-                      <div className="aspect-square w-full relative bg-zinc-950">
+                      <div className="aspect-square w-full relative bg-zinc-50">
                         {/* eslint-disable-next-line @next/next/no-img-element */}
                         <img
                           src={item.image}
@@ -757,14 +764,14 @@ export default function Home() {
                         {/* Remove item button */}
                         <button
                           onClick={(e) => deleteHistoryItem(item.id, e)}
-                          className="absolute top-1.5 right-1.5 h-5 w-5 bg-black/60 backdrop-blur-md rounded-md flex items-center justify-center text-[10px] text-zinc-400 hover:text-red-400 opacity-0 group-hover:opacity-100 transition-opacity"
+                          className="absolute top-1.5 right-1.5 h-5 w-5 bg-white/80 backdrop-blur-md rounded-md flex items-center justify-center text-[10px] text-zinc-500 hover:text-red-400 opacity-0 group-hover:opacity-100 transition-opacity"
                           title="ลบรายการนี้"
                         >
                           ✕
                         </button>
                       </div>
                       <div className="p-2 flex flex-col gap-0.5 text-[11px] leading-tight">
-                        <span className="font-bold text-white truncate">{item.result.nameTh}</span>
+                        <span className="font-bold text-zinc-800 truncate">{item.result.nameTh}</span>
                         <span className="text-zinc-500 text-[9px] truncate">
                           {new Date(item.timestamp).toLocaleTimeString("th-TH", {
                             hour: "2-digit",
@@ -776,7 +783,7 @@ export default function Home() {
                   ))}
                 </div>
               ) : (
-                <div className="border border-zinc-900 border-dashed rounded-xl p-6 text-center text-xs text-zinc-500">
+                <div className="border border-zinc-200 border-dashed rounded-xl p-6 text-center text-xs text-zinc-400">
                   ยังไม่มีประวัติการจำแนก
                 </div>
               )}
@@ -788,9 +795,9 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="w-full border-t border-zinc-950 bg-zinc-950 py-6 text-center text-[11px] text-zinc-500 mt-auto">
+      <footer className="w-full border-t border-zinc-200 bg-white py-6 text-center text-[11px] text-zinc-400 mt-auto">
         <div className="max-w-7xl mx-auto px-4">
-          <p>© {new Date().getFullYear()} FaunaLens - พัฒนาด้วย Next.js และ Gemini API. สงวนลิขสิทธิ์ทั้งหมด.</p>
+          <p>© {new Date().getFullYear()} SmartZoo - พัฒนาด้วย Next.js และ Gemini API. สงวนลิขสิทธิ์ทั้งหมด.</p>
         </div>
       </footer>
       

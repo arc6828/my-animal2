@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FaunaLens - ระบบจำแนกสายพันธุ์สัตว์ด้วย AI",
-  description: "ค้นหาและวิเคราะห์สายพันธุ์สัตว์ป่าและสัตว์เลี้ยงจากภาพถ่ายด้วยเทคโนโลยี Google Gemini 2.5 Flash พร้อมรายงานผลชีววิทยา ถิ่นอาศัย และประวัติการสแกนแบบพรีเมียม",
+  title: "SmartZoo - ระบบจำแนกสายพันธุ์สัตว์ด้วย AI",
+  description: "ค้นหาและวิเคราะห์สายพันธุ์สัตว์ป่าและสัตว์เลี้ยงจากภาพถ่ายด้วย AI ที่ smartzoo.ckartisan.com พร้อมรายงานผลชีววิทยา ถิ่นอาศัย และประวัติการสแกนแบบพรีเมียม",
 };
 
 export default function RootLayout({
