@@ -202,11 +202,24 @@ export default function Home() {
         }),
       });
 
-      const data = await response.json();
-
       if (!response.ok) {
-        throw new Error(data.error || "เกิดข้อผิดพลาดจากเซิร์ฟเวอร์");
+        let errMsg = "เกิดข้อผิดพลาดจากเซิร์ฟเวอร์";
+        const contentType = response.headers.get("content-type");
+        
+        if (contentType && contentType.includes("application/json")) {
+          const errData = await response.json();
+          errMsg = errData.error || errMsg;
+        } else {
+          if (response.status === 502 || response.status === 504) {
+            errMsg = `เซิร์ฟเวอร์ตอบสนองช้าหรือปิดอยู่ (Status ${response.status})`;
+          } else {
+            errMsg = `เกิดข้อผิดพลาดในการเชื่อมต่อ (Status ${response.status})`;
+          }
+        }
+        throw new Error(errMsg);
       }
+
+      const data = await response.json();
 
       setResult(data);
       if (data.isAnimal) {
