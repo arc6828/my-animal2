@@ -11,11 +11,27 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const { image, mimeType } = body;
+    let { image, mimeType } = body;
+
+    // Fallback: Extract mimeType from image if it is a data URL and mimeType is missing or empty
+    if ((!mimeType || mimeType === "") && image && image.startsWith("data:")) {
+      const match = image.match(/^data:([^;]+);base64,/);
+      if (match) {
+        mimeType = match[1];
+      }
+    }
 
     if (!image || !mimeType) {
       return NextResponse.json(
         { error: "Missing 'image' (base64 string) or 'mimeType' field in request body." },
+        { status: 400 }
+      );
+    }
+
+    const ALLOWED_MIME_TYPES = ["image/jpeg", "image/jpg", "image/png", "image/webp", "image/heic", "image/heif"];
+    if (!ALLOWED_MIME_TYPES.includes(mimeType.toLowerCase())) {
+      return NextResponse.json(
+        { error: `Unsupported image type '${mimeType}'. Supported types are JPEG, PNG, WEBP, and HEIC.` },
         { status: 400 }
       );
     }

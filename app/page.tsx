@@ -79,7 +79,20 @@ export default function Home() {
     };
     const updatedHistory = [newItem, ...history].slice(0, 20); // Keep last 20 items
     setHistory(updatedHistory);
-    localStorage.setItem("animal_scan_history", JSON.stringify(updatedHistory));
+    try {
+      localStorage.setItem("animal_scan_history", JSON.stringify(updatedHistory));
+    } catch (e) {
+      console.error("Failed to save history to localStorage:", e);
+      if (e instanceof DOMException && e.name === "QuotaExceededError") {
+        try {
+          const trimmed = updatedHistory.slice(0, 5);
+          setHistory(trimmed);
+          localStorage.setItem("animal_scan_history", JSON.stringify(trimmed));
+        } catch (innerErr) {
+          console.error("Failed to save trimmed history:", innerErr);
+        }
+      }
+    }
   };
 
   const clearHistory = () => {
@@ -160,6 +173,41 @@ export default function Home() {
     }
   };
 
+  const compressAndResizeImage = (base64Str: string, maxDimension = 1000): Promise<string> => {
+    return new Promise((resolve) => {
+      const img = new Image();
+      img.src = base64Str;
+      img.onload = () => {
+        let width = img.width;
+        let height = img.height;
+
+        if (width > height) {
+          if (width > maxDimension) {
+            height = Math.round((height * maxDimension) / width);
+            width = maxDimension;
+          }
+        } else {
+          if (height > maxDimension) {
+            width = Math.round((width * maxDimension) / height);
+            height = maxDimension;
+          }
+        }
+
+        const canvas = document.createElement("canvas");
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext("2d");
+        if (ctx) {
+          ctx.drawImage(img, 0, 0, width, height);
+          resolve(canvas.toDataURL("image/jpeg", 0.75));
+        } else {
+          resolve(base64Str);
+        }
+      };
+      img.onerror = () => resolve(base64Str);
+    });
+  };
+
   const processFile = (file: File) => {
     setError(null);
     setResult(null);
@@ -170,13 +218,18 @@ export default function Home() {
     }
 
     const reader = new FileReader();
-    reader.onload = (event) => {
+    reader.onload = async (event) => {
       const base64Data = event.target?.result as string;
-      setImage(base64Data);
-      setMimeType(file.type);
+      
+      setAnalyzing(true);
+      const compressedBase64 = await compressAndResizeImage(base64Data);
+      setAnalyzing(false);
+
+      setImage(compressedBase64);
+      setMimeType("image/jpeg");
       
       // Trigger analysis
-      analyzeImage(base64Data, file.type);
+      analyzeImage(compressedBase64, "image/jpeg");
     };
     reader.onerror = () => {
       setError("เกิดข้อผิดพลาดในการอ่านไฟล์");
@@ -184,11 +237,19 @@ export default function Home() {
     reader.readAsDataURL(file);
   };
 
-  // Trigger analysis request to backend API
   const analyzeImage = async (base64Image: string, imageMime: string) => {
     setAnalyzing(true);
     setError(null);
     setResult(null);
+
+    let finalMime = imageMime;
+    if ((!finalMime || finalMime === "") && base64Image.startsWith("data:")) {
+      const match = base64Image.match(/^data:([^;]+);base64,/);
+      if (match) {
+        finalMime = match[1];
+        setMimeType(finalMime);
+      }
+    }
 
     try {
       const response = await fetch("/api/recognize", {
@@ -198,7 +259,7 @@ export default function Home() {
         },
         body: JSON.stringify({
           image: base64Image,
-          mimeType: imageMime,
+          mimeType: finalMime,
         }),
       });
 
@@ -764,6 +825,12 @@ export default function Home() {
                         setResult(item.result);
                         setImage(item.image);
                         setCameraActive(false);
+                        if (item.image.startsWith("data:")) {
+                          const match = item.image.match(/^data:([^;]+);base64,/);
+                          if (match) {
+                            setMimeType(match[1]);
+                          }
+                        }
                       }}
                       className="group cursor-pointer bg-zinc-50/55 border border-zinc-100 hover:border-emerald-200 rounded-xl overflow-hidden flex flex-col relative"
                     >
