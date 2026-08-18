@@ -128,13 +128,6 @@ export default function Home() {
         audio: false,
       });
       setStream(mediaStream);
-      if (videoRef.current) {
-        videoRef.current.srcObject = mediaStream;
-        // Explicitly call play to handle autoplay blockages on mobile browsers
-        videoRef.current.play().catch((playErr) => {
-          console.error("Failed to auto-play video stream:", playErr);
-        });
-      }
       setCameraActive(true);
     } catch (err) {
       console.warn("Failed to access camera with 'environment' constraint, falling back to default:", err);
@@ -145,12 +138,6 @@ export default function Home() {
           audio: false,
         });
         setStream(fallbackStream);
-        if (videoRef.current) {
-          videoRef.current.srcObject = fallbackStream;
-          videoRef.current.play().catch((playErr) => {
-            console.error("Failed to auto-play fallback video stream:", playErr);
-          });
-        }
         setCameraActive(true);
       } catch (fallbackErr) {
         console.error("Error accessing fallback camera:", fallbackErr);
@@ -158,6 +145,21 @@ export default function Home() {
       }
     }
   };
+
+  // Bind camera stream to video element when stream or cameraActive changes
+  useEffect(() => {
+    if (cameraActive && stream) {
+      const video = videoRef.current;
+      if (video && video.srcObject !== stream) {
+        video.srcObject = stream;
+        video.play().catch((err) => {
+          console.error("Failed to play video stream in useEffect:", err);
+        });
+      }
+    } else if (videoRef.current) {
+      videoRef.current.srcObject = null;
+    }
+  }, [stream, cameraActive]);
 
   const stopCamera = () => {
     if (stream) {
