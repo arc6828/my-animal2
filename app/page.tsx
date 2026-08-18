@@ -115,7 +115,14 @@ export default function Home() {
     setError(null);
     setImage(null);
     setResult(null);
+    
+    if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+      setError("เบราว์เซอร์หรือสภาพแวดล้อมการเชื่อมต่อของคุณไม่รองรับการเปิดใช้งานกล้อง (กรุณาตรวจสอบว่าเข้าใช้งานผ่าน HTTPS)");
+      return;
+    }
+
     try {
+      // Try accessing the environment (rear) camera first
       const mediaStream = await navigator.mediaDevices.getUserMedia({
         video: { facingMode: "environment", width: { ideal: 1280 }, height: { ideal: 720 } },
         audio: false,
@@ -123,11 +130,32 @@ export default function Home() {
       setStream(mediaStream);
       if (videoRef.current) {
         videoRef.current.srcObject = mediaStream;
+        // Explicitly call play to handle autoplay blockages on mobile browsers
+        videoRef.current.play().catch((playErr) => {
+          console.error("Failed to auto-play video stream:", playErr);
+        });
       }
       setCameraActive(true);
     } catch (err) {
-      console.error("Error accessing camera:", err);
-      setError("ไม่สามารถเปิดใช้งานกล้องได้ กรุณาตรวจสอบสิทธิ์และลองใหม่อีกครั้ง");
+      console.warn("Failed to access camera with 'environment' constraint, falling back to default:", err);
+      // Fallback: try accessing any available video camera
+      try {
+        const fallbackStream = await navigator.mediaDevices.getUserMedia({
+          video: true,
+          audio: false,
+        });
+        setStream(fallbackStream);
+        if (videoRef.current) {
+          videoRef.current.srcObject = fallbackStream;
+          videoRef.current.play().catch((playErr) => {
+            console.error("Failed to auto-play fallback video stream:", playErr);
+          });
+        }
+        setCameraActive(true);
+      } catch (fallbackErr) {
+        console.error("Error accessing fallback camera:", fallbackErr);
+        setError("ไม่สามารถเปิดใช้งานกล้องได้ กรุณาตรวจสอบสิทธิ์และลองใหม่อีกครั้ง");
+      }
     }
   };
 
@@ -456,6 +484,7 @@ export default function Home() {
                       ref={videoRef}
                       autoPlay
                       playsInline
+                      muted
                       className="w-full h-full object-cover"
                     />
                     <div className="absolute bottom-6 flex justify-center w-full z-20">
