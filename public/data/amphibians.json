@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1,
+    "thai_name": "กบชะง่อนผาเขมร",
+    "english_name": "Green Cascade Frog / Hose's Rock Frog",
+    "scientific_name": "Odorrana hosii",
+    "order": "Anura",
+    "family": "Ranidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์สงขลา, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ลำตัวสีเขียวเข้มแต้มจุดดำ ขายาวเพรียว อาศัยอยู่ตามโขดหินริมลำธารน้ำตกไหลเชี่ยว เกาะหินลื่นได้แน่นหนา",
+    "zoos": [
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 2,
+    "thai_name": "กบตาแดงอเมริกากลาง",
+    "english_name": "Red-eyed Tree Frog",
+    "scientific_name": "Agalychnis callidryas",
+    "order": "Anura",
+    "family": "Hylidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "ดวงตากลมโตสีแดงเพลิง ตัวสีเขียวสด ขาสีส้มและสีฟ้า ใช้สีสดลวงตาผู้ล่าในป่าดิบชื้นแอมะซอน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 3,
+    "thai_name": "กบตาหนามฮอร์นฟร็อก / กบแพ็กแมน",
+    "english_name": "Chacoan Horned Frog (Pacman Frog)",
+    "scientific_name": "Ceratophrys cranwelli",
+    "order": "Anura",
+    "family": "Ceratophryidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "ปากกว้างมากกลืนเหยื่อได้เกือบเท่าขนาดตัว เหนือตามีติ่งแหลมคล้ายเขา ซุ่มฝังตัวใต้ดินรอเหยื่อเดินผ่าน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 4,
+    "thai_name": "กบทูด / กบภูเขาเบตง",
+    "english_name": "Blyth's Giant Frog",
+    "scientific_name": "Limnonectes blythii",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "NT (ใกล้ถูกคุกคาม)",
+    "thai_zoos": "สวนสัตว์สงขลา, สถานีวิจัยสัตว์ป่าเขานัน นครศรีธรรมราช, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "กบพื้นเมืองขนาดใหญ่ที่สุดในไทย ตัวเมียหนักได้เกือบ 1 กก. อาศัยตามลำธารต้นน้ำป่าดิบชื้นภาคใต้",
+    "zoos": [
+      "สวนสัตว์สงขลา",
+      "สถานีวิจัยสัตว์ป่าเขานัน นครศรีธรรมราช",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 5,
+    "thai_name": "กบทูดใต้ / กบเขาสอยดาว",
+    "english_name": "Big-headed Stream Frog",
+    "scientific_name": "Limnonectes megastomias",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สถานีเพาะเลี้ยงสัตว์ป่าเขาสอยดาว จันทบุรี, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "กบหัวโตเขี้ยวแหลม ตัวผู้มีหัวขนาดใหญ่และมีเขี้ยวฟันยื่นเด่นชัด กัดกินเหยื่อขนาดใหญ่และต่อสู้เพื่อแย่งชิงอาณาเขต",
+    "zoos": [
+      "สถานีเพาะเลี้ยงสัตว์ป่าเขาสอยดาว จันทบุรี",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 6,
+    "thai_name": "กบนา",
+    "english_name": "East Asian Bullfrog",
+    "scientific_name": "Hoplobatrachus rugulosus",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, สวนสัตว์สงขลา",
+    "highlight_notes": "กบเศรษฐกิจและกบพื้นเมืองที่สำคัญของไทย ผิวหนังเป็นริ้วสันยาว กระโดดได้ไกลและว่ายน้ำรวดเร็ว",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 7,
+    "thai_name": "กบมอสเวียดนาม",
+    "english_name": "Vietnamese Mossy Frog",
+    "scientific_name": "Theloderma corticale",
+    "order": "Anura",
+    "family": "Rhacophoridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "ผิวหนังขรุขระเต็มไปด้วยปุ่มหนามสีเขียวและน้ำตาล พรางตัวเข้ากับมอสและไลเคนตามโขดหินได้อย่างแนบเนียน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 8,
+    "thai_name": "กบมะเขือเทศมาดากัสการ์",
+    "english_name": "Madagascar Tomato Frog",
+    "scientific_name": "Dyscophus antongilii",
+    "order": "Anura",
+    "family": "Microhylidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "ลำตัวป้อมกลมสีแดงสดอมส้มคล้ายผลมะเขือเทศสุก เมื่อถูกรบกวนจะพองตัวและขับสารเมือกเหนียวสีขาวปกป้องตัวเอง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 9,
+    "thai_name": "กบลูกศรพิษเขียวดำ",
+    "english_name": "Green and Black Poison Dart Frog",
+    "scientific_name": "Dendrobates auratus",
+    "order": "Anura",
+    "family": "Dendrobatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ลวดลายแต้มสีเขียวมรกตตัดกับสีดำขลับ เป็นกบที่มีความคล่องแคล่วและจัดแสดงในตู้ชื้นจำลองระบบนิเวศป่าฝน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 10,
+    "thai_name": "กบลูกศรพิษย้อมสี",
+    "english_name": "Dyeing Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius",
+    "order": "Anura",
+    "family": "Dendrobatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "หนึ่งในกบลูกศรพิษขนาดใหญ่ที่สุด มีลวดลายเหลืองสลับน้ำเงินเข้ม ชนพื้นเมืองเคยใช้ทาขนลูกนกแก้วให้เปลี่ยนสี",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 11,
+    "thai_name": "กบลูกศรพิษลายแถบเหลือง",
+    "english_name": "Yellow-banded Poison Dart Frog",
+    "scientific_name": "Dendrobates leucomelas",
+    "order": "Anura",
+    "family": "Dendrobatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "ลวดลายแถบสีเหลืองสลับดำเด่นชัด ชอบความชื้นสูง เป็นสัญลักษณ์เตือนภัยผู้ล่า (Aposematism)",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 12,
+    "thai_name": "กบลูกศรพิษสตรอว์เบอร์รี",
+    "english_name": "Strawberry Poison Frog",
+    "scientific_name": "Oophaga pumilio",
+    "order": "Anura",
+    "family": "Dendrobatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "ตัวสีแดงสดคล้ายผลสตรอว์เบอร์รี ขาสีน้ำเงินเข้ม แม่กบจะแบกลูกอ๊อดขึ้นไปวางในซอกใบสับปะรดสีแล้วไข่ที่ไม่ออกลูกให้เป็นอาหาร",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 13,
+    "thai_name": "กบลูกศรพิษสีทอง",
+    "english_name": "Golden Poison Frog",
+    "scientific_name": "Phyllobates terribilis",
+    "order": "Anura",
+    "family": "Dendrobatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "หนึ่งในสัตว์มีพิษร้ายแรงที่สุดในโลก ผิวหนังตัวเดียวมีพิษบาตราโคท็อกซินพอสังหารมนุษย์ได้ถึง 10-20 คน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 14,
+    "thai_name": "กบลูกศรพิษสีน้ำเงิน",
+    "english_name": "Blue Poison Dart Frog",
+    "scientific_name": "Dendrobates tinctorius azureus",
+    "order": "Anura",
+    "family": "Dendrobatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว (โซนสัตว์แปลก), ซาฟารีเวิลด์",
+    "highlight_notes": "กบสีน้ำเงินสดแต้มจุดดำจากซูรินาม ในธรรมชาติมีพิษร้ายแรงถึงตาย แต่ในกรงเลี้ยงไร้พิษเพราะอาหารเปลี่ยน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว (โซนสัตว์แปลก)",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 15,
+    "thai_name": "กบเล็บแอฟริกัน",
+    "english_name": "African Clawed Frog",
+    "scientific_name": "Xenopus laevis",
+    "order": "Anura",
+    "family": "Pipidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "พิพิธภัณฑ์สัตว์น้ำ ม.บูรพา, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "กบที่อาศัยในน้ำตลอดชีวิต ไม่มีลิ้น นิ้วเท้าหลังมีเล็บแข็งสีดำ ใช้ช่วยฉีกเหยื่อ นิยมใช้ในงานวิจัยทางพันธุศาสตร์",
+    "zoos": [
+      "พิพิธภัณฑ์สัตว์น้ำ ม.บูรพา",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 16,
+    "thai_name": "กบหนอง",
+    "english_name": "Cricket Frog / Asian Cricket Frog",
+    "scientific_name": "Fejervarya limnocharis",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "กบขนาดเล็กผิวหนังขรุขระ ร้องเสียงแหลมรัวคล้ายจิ้งหรีด พบได้ทั่วไปตามทุ่งนาและหนองน้ำ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 17,
+    "thai_name": "กบแอฟริกันบูลฟร็อก / พิกซี่ฟร็อก",
+    "english_name": "African Bullfrog (Pixie Frog)",
+    "scientific_name": "Pyxicephalus adspersus",
+    "order": "Anura",
+    "family": "Pyxicephalidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "กบยักษ์จากแอฟริกา ตัวผู้หนักได้ถึง 1.5-2 กก. มีสันฟันแหลมคมคล้ายเขี้ยวในปาก ตัวผู้ทำหน้าที่เฝ้าดูลูกอ๊อด",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 18,
+    "thai_name": "กบฮอร์นฟร็อกแอมะซอน",
+    "english_name": "Amazonian Horned Frog",
+    "scientific_name": "Ceratophrys cornuta",
+    "order": "Anura",
+    "family": "Ceratophryidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "ติ่งเขาเหนือตายาวแหลมชัดเจน ลายพรางคล้ายใบไม้แห้ง กัดเหยื่อด้วยแรงกรามมหาศาล",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 19,
+    "thai_name": "กะท่างน้ำดอยช้าง / กะท่างน้ำเหนือ",
+    "english_name": "Chiang Mai Newt (Himalayan Newt)",
+    "scientific_name": "Tylototriton uyenoi",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC / หายากในไทย",
+    "thai_zoos": "สวนสัตว์เชียงใหม่, ดอยอินทนนท์, ดอยสุเทพ-ปุย, ดอยช้าง เชียงราย",
+    "highlight_notes": "สัตว์สะเทินน้ำสะเทินบกมีหาง (กะท่าง/ซาลาแมนเดอร์) ประจำถิ่นภูเขาสูงภาคเหนือของไทย ลำตัวสีดำแต้มส้ม",
+    "zoos": [
+      "สวนสัตว์เชียงใหม่",
+      "ดอยอินทนนท์",
+      "ดอยสุเทพ-ปุย",
+      "ดอยช้าง เชียงราย"
+    ]
+  },
+  {
+    "id": 20,
+    "thai_name": "กะท่างน้ำดอยอินทนนท์ / กะท่างปันไฮ",
+    "english_name": "Panha's Crocodile Newt",
+    "scientific_name": "Tylototriton panhai",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC / หายากในไทย",
+    "thai_zoos": "สวนสัตว์เชียงใหม่, อุทยานแห่งชาติดอยอินทนนท์ เชียงใหม่, ภูหินร่องกล้า",
+    "highlight_notes": "สัตว์สะเทินน้ำสะเทินบกมีหางชนิดใหม่ของไทย มีแนวสันกระดูกนูนข้างลำตัวสีส้มอมน้ำตาล วางไข่ตามแอ่งน้ำบนภูเขาสูง",
+    "zoos": [
+      "สวนสัตว์เชียงใหม่",
+      "อุทยานแห่งชาติดอยอินทนนท์ เชียงใหม่",
+      "ภูหินร่องกล้า"
+    ]
+  },
+  {
+    "id": 21,
+    "thai_name": "เขียดงูเกาะเต่า",
+    "english_name": "Koh Tao Island Caecilian",
+    "scientific_name": "Ichthyophis kohtaoensis",
+    "order": "Gymnophiona",
+    "family": "Ichthyophiidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว (นิทรรศการสัตว์เลื้อยคลานและสัตว์สะเทินน้ำสะเทินบก)",
+    "highlight_notes": "สัตว์สะเทินน้ำสะเทินบกไร้รยางค์ ลำตัวเรียวยาวเป็นปล้องคล้ายไส้เดือน มีแถบสีเหลืองข้างลำตัว มุดดินหาแมลงกิน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว (นิทรรศการสัตว์เลื้อยคลานและสัตว์สะเทินน้ำสะเทินบก)"
+    ]
+  },
+  {
+    "id": 22,
+    "thai_name": "เขียดจะนา / เขียดทราย",
+    "english_name": "Floating Frog / Ricefield Frog",
+    "scientific_name": "Occidozyga lima",
+    "order": "Anura",
+    "family": "Dicroglossidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์ขอนแก่น",
+    "highlight_notes": "ชอบลอยตัวโผล่เฉพาะดวงตาและจมูกเหนือน้ำ ลำตัวตะปุ่มตะป่ำคล้ายโคลน ว่องไวมากในน้ำตื้น",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์ขอนแก่น"
+    ]
+  },
+  {
+    "id": 23,
+    "thai_name": "เขียดบัว",
+    "english_name": "Common Green Frog / Green Paddy Frog",
+    "scientific_name": "Hylarana erythraea",
+    "order": "Anura",
+    "family": "Ranidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา",
+    "highlight_notes": "หลังสีเขียวสด มีแถบสีครีมพาดขนานตามลำตัว อาศัยเกาะตามใบบัวและพืชน้ำในบึง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 24,
+    "thai_name": "คางคกบ้าน",
+    "english_name": "Asian Common Toad / Black-spectacled Toad",
+    "scientific_name": "Duttaphrynus melanostictus",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "คางคกที่พบได้บ่อยที่สุดในไทย มีสันสันกระดูกสีดำเหนือดวงตา ผิวหนังเป็นปุ่มตุ่มหนาม มีต่อมน้ำพิษข้างแก้ม",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 25,
+    "thai_name": "คางคกยักษ์เคนโทด",
+    "english_name": "Cane Toad",
+    "scientific_name": "Rhinella marina",
+    "order": "Anura",
+    "family": "Bufonidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "คางคกขนาดยักษ์จากอเมริกากลางและใต้ มีต่อมพาโรทอยด์ขนาดใหญ่หลังตาผลิตพิษบูโฟท็อกซินรุนแรง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 26,
+    "thai_name": "คางคกหงอนไฟตะวันออก",
+    "english_name": "Oriental Fire-bellied Toad",
+    "scientific_name": "Bombina orientalis",
+    "order": "Anura",
+    "family": "Bombinatoridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เชียงใหม่, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "หลังสีเขียวลายดำ แต่ใต้ท้องมีสีส้มแดงสดพร้อมจุดดำ เมื่อตกใจจะหงายท้องแอ่นตัวโชว์สีเตือนภัยผู้ล่า (Unkenreflex)",
+    "zoos": [
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 27,
+    "thai_name": "ซาลาแมนเดอร์ไฟยุโรป",
+    "english_name": "European Fire Salamander",
+    "scientific_name": "Salamandra salamandra",
+    "order": "Caudata",
+    "family": "Salamandridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เชียงใหม่, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ซาลาแมนเดอร์บกสีดำมันวาวแต้มลายจุดสีเหลืองสด มีต่อมขับสารพิษซาลาแมนดรินหลังดวงตา",
+    "zoos": [
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 28,
+    "thai_name": "ซาลาแมนเดอร์เสือ",
+    "english_name": "Tiger Salamander",
+    "scientific_name": "Ambystoma tigrinum",
+    "order": "Caudata",
+    "family": "Ambystomatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เชียงใหม่, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ซาลาแมนเดอร์บกขนาดใหญ่จากอเมริกาเหนือ ลายแถบสีเหลืองสลับดำคล้ายเสือ ชอบขุดรูอยู่ใต้ดิน",
+    "zoos": [
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 29,
+    "thai_name": "ปาดเขียว / ปาดบ้าน",
+    "english_name": "Common Tree Frog",
+    "scientific_name": "Polypedates leucomystax",
+    "order": "Anura",
+    "family": "Rhacophoridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนสัตว์สงขลา",
+    "highlight_notes": "ปลายนิ้วมีแผ่นดูดสำหรับปีนป่ายกระจกและใบไม้ ทำรังไข่เป็นฟองโฟมสีขาวเกาะเหนือกิ่งไม้เหนือน้ำ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 30,
+    "thai_name": "ปาดบินวอลเลซ",
+    "english_name": "Wallace's Flying Frog",
+    "scientific_name": "Rhacophorus nigropalmatus",
+    "order": "Anura",
+    "family": "Rhacophoridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์สงขลา, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "มีพังผืดระหว่างนิ้วมือและนิ้วเท้ากว้างมาก ทำหน้าที่เป็นร่มร่อน สามารถร่อนเหินข้ามกิ่งไม้ในป่าดิบชื้นได้ไกลกว่า 15 เมตร",
+    "zoos": [
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 31,
+    "thai_name": "ปาดป่าเขียวเต๋อหนิง",
+    "english_name": "Giant Flying Frog / Chinese Flying Frog",
+    "scientific_name": "Zhangixalus dennysi",
+    "order": "Anura",
+    "family": "Rhacophoridae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "ปาดเขียวขนาดยักษ์ ลำตัวยาวได้ถึง 11 ซม. สีเขียวมรกตสดใส ฝ่าเท้ามีแผ่นดูดขนาดใหญ่ ปีนกระจกและกิ่งไม้ได้อย่างมั่นคง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 32,
+    "thai_name": "อึ่งกรายข้างแถบ / อึ่งกรายตาหนาม",
+    "english_name": "White-lipped Horned Frog",
+    "scientific_name": "Megophrys leucophrys",
+    "order": "Anura",
+    "family": "Megophryidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา",
+    "highlight_notes": "พรางตัวแนบเนียนคล้ายใบไม้แห้ง ขอบตาและปลายจมูกแหลมเป็นติ่ง อาศัยตามพื้นป่าดิบชื้น",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 33,
+    "thai_name": "อึ่งปากขวด / อึ่งเพ้า",
+    "english_name": "Truncate-snouted Burrowing Frog",
+    "scientific_name": "Glyphoglossus molossus",
+    "order": "Anura",
+    "family": "Microhylidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "NT (ใกล้ถูกคุกคาม)",
+    "thai_zoos": "สวนสัตว์นครราชสีมา, สวนสัตว์เปิดเขาเขียว, สวนสัตว์ขอนแก่น",
+    "highlight_notes": "หัวสั้นทู่ ปากแคบ ลำตัวกลมป้อม อาศัยขุดรูอยู่ใต้ดิน ออกมาผสมพันธุ์เฉพาะช่วงต้นฤดูฝน",
+    "zoos": [
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์ขอนแก่น"
+    ]
+  },
+  {
+    "id": 34,
+    "thai_name": "อึ่งอ่างบ้าน / อึ่งยาง",
+    "english_name": "Asian Painted Bullfrog",
+    "scientific_name": "Kaloula pulchra",
+    "order": "Anura",
+    "family": "Microhylidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, ซาฟารีเวิลด์",
+    "highlight_notes": "มีแถบสีส้มหรือน้ำตาลอ่อนพาดสองข้างลำตัว เมื่อตกใจจะสูบลมจนตัวพองกลมและขับเมือกเหนียวสีขาว",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 35,
+    "thai_name": "แอกโซลอตล์ / หมาน้ำเม็กซิโก",
+    "english_name": "Axolotl",
+    "scientific_name": "Ambystoma mexicanum",
+    "order": "Caudata",
+    "family": "Ambystomatidae",
+    "category": "สัตว์สะเทินน้ำสะเทินบก",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์ในธรรมชาติ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์เปิดเขาเขียว, ม.บูรพา บางแสน",
+    "highlight_notes": "ซาลาแมนเดอร์ที่ไม่ยอมโตเต็มวัย (Neoteny) มีพู่เหงือกภายนอกสีชมพูฟู สามารถงอกอวัยวะใหม่ทดแทนได้",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์เปิดเขาเขียว",
+      "ม.บูรพา บางแสน"
+    ]
+  }
+]

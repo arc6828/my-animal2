@@ -1,0 +1,1095 @@
+[
+  {
+    "id": 1,
+    "thai_name": "ปลากดคัง",
+    "english_name": "Asian Redtail Catfish",
+    "scientific_name": "Hemibagrus wyckioides",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Bagridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำหนองคาย",
+    "highlight_notes": "ปลากดขนาดใหญ่ที่สุดในเอเชีย ครีบหางสีแดงสด หนวดยาว กัดเหยื่อรุนแรงและหวงถิ่น",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำหนองคาย"
+    ]
+  },
+  {
+    "id": 2,
+    "thai_name": "ปลากระทิงไฟ",
+    "english_name": "Fire Eel",
+    "scientific_name": "Mastacembelus erythrotaenia",
+    "class": "Actinopterygii",
+    "order": "Synbranchiformes",
+    "family": "Mastacembelidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบึงฉวาก",
+    "highlight_notes": "ลำตัวเรียวยาวคล้ายปลาไหล สีดำสนิทพาดด้วยลวดลายแถบสีแดงเพลิงสดใส ปลายจมูกยื่นยาว",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบึงฉวาก"
+    ]
+  },
+  {
+    "id": 3,
+    "thai_name": "ปลากระเบนทอง / กระเบนจุดฟ้า",
+    "english_name": "Blue-spotted Ribbontail Ray",
+    "scientific_name": "Taeniura lymma",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Dasyatidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "ST (มีความเสี่ยง)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ลำตัวทรงกลมรี สีเขียวอมเทาแต้มจุดสีฟ้าส่องประกายสดใส โคนหางมีเงี่ยงพิษสองอัน",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 4,
+    "thai_name": "ปลากระเบนธงลายรังผึ้ง",
+    "english_name": "Honeycomb Stingray",
+    "scientific_name": "Himantura uarnak",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Dasyatidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ลวดลายจุดร่างแหละเอียดคล้ายรังผึ้งหรือลายเสือดาวทั่วทั้งแผ่นหลัง หางยาวเรียวคล้ายแส้",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 5,
+    "thai_name": "ปลากระเบนนกจุดขาว",
+    "english_name": "Spotted Eagle Ray",
+    "scientific_name": "Aetobatus narinari",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Aetobatidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "หัวคล้ายจะงอยปากนก ด้านหลังสีดำลายจุดขาว ว่ายร่อนคล้ายนกบินในอุโมงค์ใต้น้ำลึก",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 6,
+    "thai_name": "ปลากระเบนแบล็กไดมอนด์",
+    "english_name": "Black Diamond Stingray",
+    "scientific_name": "Potamotrygon leopoldi (Variant)",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Potamotrygonidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, ซาฟารีเวิลด์",
+    "highlight_notes": "สีดำสนิทแต้มจุดสีขาวบริสุทธิ์ส่องประกายคล้ายเพชร ปลากระเบนน้ำจืดราคาสูงและยอดนิยม",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 7,
+    "thai_name": "ปลากระเบนโมโตโร่",
+    "english_name": "Ocellate River Stingray (Motoro)",
+    "scientific_name": "Potamotrygon motoro",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Potamotrygonidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "DD / มีการเพาะพันธุ์",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ปลากระเบนน้ำจืดจากแอมะซอน ลวดลายจุดวงแหวนสีส้มขอบดำสวยงามบนพื้นสีน้ำตาล",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 8,
+    "thai_name": "ปลากระเบนราหูน้ำจืด / ปลากระเบนเจ้าพระยา",
+    "english_name": "Giant Freshwater Stingray",
+    "scientific_name": "Urogymnus polylepis",
+    "class": "Chondrichthyes",
+    "order": "Myliobatiformes",
+    "family": "Dasyatidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำสมุทรปราการ, ลุ่มน้ำแม่กลอง",
+    "highlight_notes": "ปลากระดูกอ่อนน้ำจืดขนาดใหญ่ที่สุดในโลก ลำตัวกว้างได้กว่า 2 เมตร โคนหางมีเงี่ยงพิษยาวแหลมคม",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำสมุทรปราการ",
+      "ลุ่มน้ำแม่กลอง"
+    ]
+  },
+  {
+    "id": 9,
+    "thai_name": "ปลากระโห้",
+    "english_name": "Giant Barb",
+    "scientific_name": "Catlocarpio siamensis",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์นครราชสีมา, พิพิธภัณฑ์สัตว์น้ำบึงฉวาก",
+    "highlight_notes": "ปลาน้ำจืดมีเกล็ดขนาดใหญ่ที่สุดในโลก หัวโต เกล็ดสีดำเงา ปากกว้างดูดกินพืชและแพลงก์ตอน",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์นครราชสีมา",
+      "พิพิธภัณฑ์สัตว์น้ำบึงฉวาก"
+    ]
+  },
+  {
+    "id": 10,
+    "thai_name": "ปลากราย / ปลากรายจุด",
+    "english_name": "Clown Knifefish",
+    "scientific_name": "Chitala ornata",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Notopteridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์เปิดเขาเขียว, บึงบอระเพ็ด",
+    "highlight_notes": "ลำตัวแบนด้านข้าง ครีบก้นยาวพริ้วไหวตลอดแนว เหนือโคนหางมีจุดกลมสีดำขอบขาวเรียงเป็นแถว",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์เปิดเขาเขียว",
+      "บึงบอระเพ็ด"
+    ]
+  },
+  {
+    "id": 11,
+    "thai_name": "ปลากะพงขาว / ปลากะพงยักษ์",
+    "english_name": "Barramundi (Asian Seabass)",
+    "scientific_name": "Lates calcarifer",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Latidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์สงขลา, พิพิธภัณฑ์สัตว์น้ำบางแสน",
+    "highlight_notes": "ปลาเศรษฐกิจและปลาตู้ขนาดใหญ่ ลำตัวสีเงินแวววาว ว่ายทวนน้ำได้ทั้งในน้ำจืด น้ำกร่อย และน้ำเค็ม",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์สงขลา",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน"
+    ]
+  },
+  {
+    "id": 12,
+    "thai_name": "ปลาการ์ตูนมะเขือเทศ",
+    "english_name": "Tomato Clownfish",
+    "scientific_name": "Amphiprion frenatus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pomacentridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า / แปซิฟิก",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "สีแดงสดใสคล้ายผลมะเขือเทศสุก มีแถบขาวพาดหลังตาเพียงแถบเดียว ลำตัวค่อนข้างกลมหนา",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 13,
+    "thai_name": "ปลาการ์ตูนลายปล้อง",
+    "english_name": "Clark's Anemonefish",
+    "scientific_name": "Amphiprion clarkii",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pomacentridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, สวนสัตว์สงขลา",
+    "highlight_notes": "มีแถบสีขาวสามแถบพาดผ่านลำตัว หางสีขาวหรือเหลือง ปรับตัวอาศัยกับดอกไม้ทะเลได้เกือบทุกชนิด",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 14,
+    "thai_name": "ปลาการ์ตูนส้มขาว / นีโม",
+    "english_name": "Ocellaris Clownfish",
+    "scientific_name": "Amphiprion ocellaris",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pomacentridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, สวนสัตว์สงขลา",
+    "highlight_notes": "ขวัญใจเด็กๆ อาศัยร่วมกับดอกไม้ทะเลแบบพึ่งพาอาศัย มีเมือกป้องกันเข็มพิษของดอกไม้ทะเล",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 15,
+    "thai_name": "ปลาการ์ตูนอานม้า",
+    "english_name": "Saddleback Clownfish",
+    "scientific_name": "Amphiprion polymnus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pomacentridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, สวนสัตว์สงขลา",
+    "highlight_notes": "ลายแถบสีขาวพาดบนหลังคล้ายอานม้า ลำตัวสีดำหรือน้ำตาลเข้ม พบตามแนวปะการังอ่าวไทย",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 16,
+    "thai_name": "ปลากุดสล่า / ปลาเก๋าแดงลายจุด",
+    "english_name": "Coral Trout (Leopard Coral Grouper)",
+    "scientific_name": "Plectropomus leopardus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, สวนสัตว์สงขลา",
+    "highlight_notes": "สีแดงสดแต้มจุดสีฟ้าเล็กๆ ทั่วทั้งตัว เป็นปลานักล่าชั้นยอดและปลาเศรษฐกิจราคาแพง",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 17,
+    "thai_name": "ปลาคาร์พญี่ปุ่น / นิชิกิกอย",
+    "english_name": "Koi (Common Carp)",
+    "scientific_name": "Cyprinus carpio",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Domesticated)",
+    "iucn_status": "VU ในธรรมชาติ / เลี้ยงทั่วไป",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, ซาฟารีเวิลด์",
+    "highlight_notes": "ปลาแฟนซีคาร์พหลากสีสัน (ขาว แดง ดำ ทอง) มีลานให้อาหารปลาคาร์พด้วยขวดนมเด็ก",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 18,
+    "thai_name": "ปลาฉลามกบ / ฉลามหิน",
+    "english_name": "Brownbanded Bamboo Shark",
+    "scientific_name": "Chiloscyllium punctatum",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Hemiscylliidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "NT (ใกล้ถูกคุกคาม)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, สวนสัตว์สงขลา",
+    "highlight_notes": "ฉลามขนาดเล็ก ลายปล้องน้ำตาลสลับขาว มีกิจกรรมเพาะพันธุ์และปล่อยไข่ฉลามคืนสู่ธรรมชาติ",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 19,
+    "thai_name": "ปลาฉลามครีบดำ",
+    "english_name": "Blacktip Reef Shark",
+    "scientific_name": "Carcharhinus melanopterus",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา, โอเอซิส ซีเวิลด์",
+    "highlight_notes": "ปลายครีบหลังและครีบหางมีแต้มสีดำชัดเจน ว่ายลาดตระเวนตามแนวปะการังน้ำตื้นอย่างคล่องแคล่ว",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา",
+      "โอเอซิส ซีเวิลด์"
+    ]
+  },
+  {
+    "id": 20,
+    "thai_name": "ปลาฉลามพยาบาล",
+    "english_name": "Tawny Nurse Shark",
+    "scientific_name": "Nebrius ferrugineus",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Ginglymostomatidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ปากอยู่ด้านล่างมีหนวดคู่ช่วยคลำหาอาหาร ใช้แรงดูดมหาศาลในการดูดจับปูและปลาตามซอกหิน",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 21,
+    "thai_name": "ปลาฉลามเสือดาว",
+    "english_name": "Zebra Shark (Leopard Shark)",
+    "scientific_name": "Stegostoma tigrinum",
+    "class": "Chondrichthyes",
+    "order": "Orectolobiformes",
+    "family": "Stegostomatidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ลายจุดคล้ายเสือดาว ครีบหางยาวเกือบเท่าลำตัว นิสัยรักสงบนอนพักตามพื้นทรายในอุโมงค์น้ำ",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 22,
+    "thai_name": "ปลาฉลามหัวบาตร",
+    "english_name": "Bull Shark",
+    "scientific_name": "Carcharhinus leucas",
+    "class": "Chondrichthyes",
+    "order": "Carcharhiniformes",
+    "family": "Carcharhinidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำระยอง",
+    "highlight_notes": "ลำตัวหนากำยำ หัวทู่กลม ปรับตัวว่ายเข้ามาหากินในเขตน้ำกร่อยและแม่น้ำน้ำจืดได้",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำระยอง"
+    ]
+  },
+  {
+    "id": 23,
+    "thai_name": "ปลาเฉี่ยวหิน / ปลาเสือดาวทะเล",
+    "english_name": "Silver Moony (Mono)",
+    "scientific_name": "Monodactylus argenteus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Monodactylidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ลำตัวแบนรูปเพชรสีเงินแวววาว ครีบสีเหลืองสด อาศัยเป็นฝูงตามป่าชายเลนและปากแม่น้ำ",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 24,
+    "thai_name": "ปลาช่อนอเมซอน / อะราไพม่า",
+    "english_name": "Arapaima (Pirarucu)",
+    "scientific_name": "Arapaima gigas",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Arapaimidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "DD / CITES II",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์, บึงฉวาก",
+    "highlight_notes": "ยักษ์ใหญ่แห่งแม่น้ำแอมะซอน ลำตัวยาวได้ถึง 3 เมตร เกล็ดหนาและแข็งแกร่งคล้ายชุดเกราะโบราณ หายใจด้วยกระเพาะลม",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์",
+      "บึงฉวาก"
+    ]
+  },
+  {
+    "id": 25,
+    "thai_name": "ปลาเซอร์เจียนลายแถบ / ปลาขี้ตังเบ็ด",
+    "english_name": "Striped Surgeonfish",
+    "scientific_name": "Acanthurus lineatus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Acanthuridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ลายเส้นสีฟ้าขอบดำสลับเหลืองส้มตลอดแนวยาวลำตัว โคนหางมีเงี่ยงพิษคมกริบ หวงอาณาเขต",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 26,
+    "thai_name": "ปลาดุกไฟฟ้า",
+    "english_name": "Electric Catfish",
+    "scientific_name": "Malapterurus electricus",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Malapteruridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบางแสน",
+    "highlight_notes": "สามารถปล่อยกระแสไฟฟ้าได้แรงถึง 350-400 โวลต์ เพื่อช็อตเหยื่อและป้องกันตัว",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน"
+    ]
+  },
+  {
+    "id": 27,
+    "thai_name": "ปลาเทพา",
+    "english_name": "Chao Phraya Giant Catfish",
+    "scientific_name": "Pangasius sanitwongsei",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pangasiidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์นครราชสีมา, พิพิธภัณฑ์สัตว์น้ำบางแสน",
+    "highlight_notes": "'ฉลามน้ำจืดเมืองไทย' ครีบหลังยื่นยาวเป็นกระโดงสูง ลำตัวสีเทาดำ ปราดเปรียวและกินเนื้อ",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์นครราชสีมา",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน"
+    ]
+  },
+  {
+    "id": 28,
+    "thai_name": "ปลาเทโพ",
+    "english_name": "Blackear Catfish",
+    "scientific_name": "Pangasius larnaudii",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pangasiidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบึงฉวาก",
+    "highlight_notes": "มีแต้มสีดำกลมขนาดใหญ่เหนือครีบอกทั้งสองข้าง เนื้อนำมาทำแกงเทโพโบราณ",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบึงฉวาก"
+    ]
+  },
+  {
+    "id": 29,
+    "thai_name": "ปลาบลูแทงก์ / ดอรี่",
+    "english_name": "Blue Tang (Palette Surgeonfish)",
+    "scientific_name": "Paracanthurus hepatus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Acanthuridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า / ทะเลสากล",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ลำตัวสีน้ำเงินสดสะดุดตา ปลายหางสีเหลือง โคนหางมีเงี่ยงคมคล้ายมีดผ่าตัดช่วยป้องกันตัว",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 30,
+    "thai_name": "ปลาบึก",
+    "english_name": "Mekong Giant Catfish",
+    "scientific_name": "Pangasianodon gigas",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pangasiidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบางแสน, พิพิธภัณฑ์สัตว์น้ำหนองคาย",
+    "highlight_notes": "ปลาน้ำจืดไม่มีเกล็ดขนาดใหญ่ที่สุดในโลก อาศัยในลุ่มน้ำโขง หนักได้ถึง 300 กก. กินตะไคร่น้ำเป็นหลัก",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน",
+      "พิพิธภัณฑ์สัตว์น้ำหนองคาย"
+    ]
+  },
+  {
+    "id": 31,
+    "thai_name": "ปลาปักเป้ากล่องเหลืองลายจุด",
+    "english_name": "Yellow Boxfish",
+    "scientific_name": "Ostracion cubicus",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Ostraciidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ลำตัวเป็นรูปทรงลูกบาศก์สีเหลืองสดใสแต้มจุดดำ ว่ายน้ำดุ๊กดิ๊กช้าๆ ปล่อยสารพิษออสทราซิโทซินเมื่อตกใจ",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 32,
+    "thai_name": "ปลาปักเป้าหนามทุเรียน",
+    "english_name": "Porcupinefish",
+    "scientific_name": "Diodon hystrix",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Diodontidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "พองตัวกลมคล้ายลูกบอลพร้อมกางหนามแหลมคมทั่วตัวเมื่อตกใจ ฟันหลอมรวมเป็นแผ่นแข็งบดเปลือกหอย",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 33,
+    "thai_name": "ปลาเปคูแดง / ปลาจาระเม็ดน้ำจืด",
+    "english_name": "Red-bellied Pacu",
+    "scientific_name": "Piaractus brachypomus",
+    "class": "Actinopterygii",
+    "order": "Characiformes",
+    "family": "Serrasalmidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "รูปร่างคล้ายปลาปิรันยาแต่ฟันแบนคล้ายฟันมนุษย์ กินพืช ผลไม้ และเมล็ดพืชเป็นอาหารหลัก",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 34,
+    "thai_name": "ปลาผีเสื้อลายแปดเส้น",
+    "english_name": "Eightband Butterflyfish",
+    "scientific_name": "Chaetodon octofasciatus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Chaetodontidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, สวนสัตว์สงขลา",
+    "highlight_notes": "ลำตัวสีเหลืองนวลพาดด้วยแถบสีดำ 8 แถบ เป็นดัชนีชี้วัดความสมบูรณ์ของแนวปะการัง",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 35,
+    "thai_name": "ปลาพลวงชมพู / ปลากือเลาะห์",
+    "english_name": "Mahseer (Thai Mahseer)",
+    "scientific_name": "Tor tambroides",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, ศูนย์วิจัยประมงน้ำจืดยะลา",
+    "highlight_notes": "ปลาพระราชทาน สัตว์น้ำประจำจังหวัดยะลา เกล็ดสีชมพูเหลือบเงินแวววาว อาศัยตามลำธารต้นน้ำป่าฮาลา-บาลา",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "ศูนย์วิจัยประมงน้ำจืดยะลา"
+    ]
+  },
+  {
+    "id": 36,
+    "thai_name": "ปลามังกรเงิน",
+    "english_name": "Silver Arowana",
+    "scientific_name": "Osteoglossum bicirrhosum",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Osteoglossidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์เปิดเขาเขียว, บึงฉวาก",
+    "highlight_notes": "ปลามังกรจากแอมะซอน ลำตัวยาวแบนสีเงินเหลือบประกาย กระโดดขึ้นเหนือน้ำเพื่อจับแมลงกิน",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์เปิดเขาเขียว",
+      "บึงฉวาก"
+    ]
+  },
+  {
+    "id": 37,
+    "thai_name": "ปลายลโลว์แทงก์",
+    "english_name": "Yellow Tang",
+    "scientific_name": "Zebrasoma flavescens",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Acanthuridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า / ฮาวายและแปซิฟิก",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบางแสน",
+    "highlight_notes": "สีเหลืองมะนาวสดใสทั่วทั้งตัว ปากแหลมยื่นสำหรับเล็มแทะตะไคร่น้ำตามซอกหินปะการัง",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน"
+    ]
+  },
+  {
+    "id": 38,
+    "thai_name": "ปลาเรดเทลแคทฟิช",
+    "english_name": "Redtail Catfish",
+    "scientific_name": "Phractocephalus hemioliopterus",
+    "class": "Actinopterygii",
+    "order": "Siluriformes",
+    "family": "Pimelodidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "ปลาดุกยักษ์จากแอมะซอน ครีบหางสีส้มแดงสดใส มีหนวดยาว 3 คู่ ปากกว้างกินเหยื่อได้จุ",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 39,
+    "thai_name": "ปลาโรนันหัวจอบ",
+    "english_name": "Giant Guitarfish",
+    "scientific_name": "Glaucostegus typus",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Glaucostegidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "รูปร่างผสมระหว่างฉลามกับกระเบน หัวแบนกว้างเป็นรูปจอบ ลำตัวยาวเพรียวคล้ายฉลาม",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 40,
+    "thai_name": "ปลาโรนิน / ปลากระเบนปากแหลม",
+    "english_name": "Bowmouth Guitarfish",
+    "scientific_name": "Rhina ancylostoma",
+    "class": "Chondrichthyes",
+    "order": "Rhinopristiformes",
+    "family": "Rhinidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "หัวกลมกว้างคล้ายคันธนู สันหลังมีหนามหนาเรียงเป็นแถว สัตว์ทะเลหายากใกล้สูญพันธุ์อย่างยิ่ง",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 41,
+    "thai_name": "ปลาวัวไททัน",
+    "english_name": "Titan Triggerfish",
+    "scientific_name": "Balistoides viridescens",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Balistidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ปลาวัวขนาดใหญ่ที่สุดตามแนวปะการัง มีฟันคมแข็งแกร่ง หวงอาณาเขตรังวางไข่อย่างดุร้าย",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 42,
+    "thai_name": "ปลาวัวปิกัสโซ่",
+    "english_name": "Lagoon Triggerfish (Picasso Triggerfish)",
+    "scientific_name": "Rhinecanthus aculeatus",
+    "class": "Actinopterygii",
+    "order": "Tetraodontiformes",
+    "family": "Balistidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ลวดลายและสีสันเรขาคณิตคล้ายภาพวาดศิลปะแนวแอบสแตรกต์ของปิกัสโซ่ กรามแข็งแรงกัดปูหอยแตก",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 43,
+    "thai_name": "ปลาเวียน",
+    "english_name": "Blue Mahseer",
+    "scientific_name": "Neolissochilus stracheyi",
+    "class": "Actinopterygii",
+    "order": "Cypriniformes",
+    "family": "Cyprinidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, น้ำตกพลิ้ว จันทบุรี",
+    "highlight_notes": "อาศัยอยู่เป็นฝูงใหญ่อย่างเชื่องตามน้ำตก ลำตัวเพรียวยาว เกล็ดสีฟ้าครามหรือเขียวมะกอก",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "น้ำตกพลิ้ว จันทบุรี"
+    ]
+  },
+  {
+    "id": 44,
+    "thai_name": "ปลาสิงโตปีกกว้าง",
+    "english_name": "Red Lionfish",
+    "scientific_name": "Pterois volitans",
+    "class": "Actinopterygii",
+    "order": "Scorpaeniformes",
+    "family": "Scorpaenidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ครีบหลังและครีบอกแผ่กว้างคล้ายปีกนก มีก้านครีบพิษร้ายแรง ลวดลายแถบสีแดงสลับขาว",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 45,
+    "thai_name": "ปลาสินสมุทรจักรพรรดิ์",
+    "english_name": "Emperor Angelfish",
+    "scientific_name": "Pomacanthus imperator",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Pomacanthidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ราชินีแห่งแนวปะการัง ลายเส้นสีเหลืองสลับฟ้าพาดตามยาว หน้ากากสีดำขอบฟ้า ลูกวัยอ่อนมีลายก้นหอยสีน้ำเงิน",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 46,
+    "thai_name": "ปลาเสือตอลายใหญ่",
+    "english_name": "Siamese Tigerfish",
+    "scientific_name": "Datnioides pulcher",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Datnioididae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์อย่างยิ่ง)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบางแสน, บึงฉวาก",
+    "highlight_notes": "ปลาสวยงามในตำนานของไทย ลายพาดสีดำ 7 แถบคมชัดบนพื้นสีทอง หายากมากในธรรมชาติ",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน",
+      "บึงฉวาก"
+    ]
+  },
+  {
+    "id": 47,
+    "thai_name": "ปลาเสือพ่นน้ำ",
+    "english_name": "Banded Archerfish",
+    "scientific_name": "Toxotes jaculatrix",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Toxotidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, Chiang Mai Zoo Aquarium, สวนสัตว์สงขลา",
+    "highlight_notes": "พ่นลำน้ำออกจากปากได้อย่างแม่นยำสูงถึง 1.5 เมตร เพื่อยิงแมลงบนกิ่งไม้ให้ตกลงมาในน้ำ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 48,
+    "thai_name": "ปลาหมอทะเล",
+    "english_name": "Giant Grouper",
+    "scientific_name": "Epinephelus lanceolatus",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Serranidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ปลากระดูกแข็งขนาดใหญ่ที่สุดตามแนวปะการัง ตัวยาวได้ถึง 2.7 เมตร หนักได้กว่า 400 กก.",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 49,
+    "thai_name": "ปลาหมอสีฟรอนโตซ่า",
+    "english_name": "Frontosa Cichlid",
+    "scientific_name": "Cyphotilapia frontosa",
+    "class": "Actinopterygii",
+    "order": "Perciformes",
+    "family": "Cichlidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบางแสน",
+    "highlight_notes": "ปลาหมอสีทะเลสาบแทนแกนยิกา ลายแถบสีขาวสลับน้ำเงินเข้ม โหนกบนหัวใหญ่สง่างาม",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน"
+    ]
+  },
+  {
+    "id": 50,
+    "thai_name": "ปลาหิน",
+    "english_name": "Reef Stonefish",
+    "scientific_name": "Synanceia verrucosa",
+    "class": "Actinopterygii",
+    "order": "Scorpaeniformes",
+    "family": "Synanceiidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "พรางตัวแนบเนียนดุจก้อนหินใต้ทะเล ก้านครีบหลังมีต่อมพิษร้ายแรงที่สุดในบรรดาปลาทะเลทั้งหมด",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 51,
+    "thai_name": "ปลาไหลมอเรย์ยักษ์",
+    "english_name": "Giant Moray",
+    "scientific_name": "Gymnothorax javanicus",
+    "class": "Actinopterygii",
+    "order": "Anguilliformes",
+    "family": "Muraenidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ปลาไหลมอเรย์ขนาดใหญ่ที่สุด ลายจุดแต้มสีน้ำตาลเข้ม ซ่อนตัวในถ้ำหินโผล่เฉพาะส่วนหัวมาอ้าปาก",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 52,
+    "thai_name": "ปลาไหลริบบิ้น",
+    "english_name": "Ribbon Eel",
+    "scientific_name": "Rhinomuraena quaesita",
+    "class": "Actinopterygii",
+    "order": "Anguilliformes",
+    "family": "Muraenidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ลำตัวเรียวยาวพริ้วไหวคล้ายริบบิ้น ปลายจมูกมีติ่งคล้ายใบไม้ สามารถเปลี่ยนเพศและสีตามช่วงวัย (ดำ ฟ้า เหลือง)",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 53,
+    "thai_name": "ปลาไหลสวนจุดดำ",
+    "english_name": "Spotted Garden Eel",
+    "scientific_name": "Heteroconger hassi",
+    "class": "Actinopterygii",
+    "order": "Anguilliformes",
+    "family": "Congridae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ฝังตัวในพื้นทรายโผล่ลำตัวขึ้นมาโยกย้ายตามกระแสน้ำคล้ายต้นไม้ในสวนเพื่อดักกินแพลงก์ตอน",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 54,
+    "thai_name": "ปลาอโรวาน่าเอเชีย / ปลามังกร",
+    "english_name": "Asian Arowana",
+    "scientific_name": "Scleropages formosus",
+    "class": "Actinopterygii",
+    "order": "Osteoglossiformes",
+    "family": "Osteoglossidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, สวนสัตว์นครราชสีมา, พิพิธภัณฑ์สัตว์น้ำบึงฉวาก",
+    "highlight_notes": "ปลาน้ำจืดโบราณ เกล็ดใหญ่เงางามคล้ายเกล็ดมังกร มีหนวดคู่ใต้คาง เสริมสิริมงคลและบารมี",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "สวนสัตว์นครราชสีมา",
+      "พิพิธภัณฑ์สัตว์น้ำบึงฉวาก"
+    ]
+  },
+  {
+    "id": 55,
+    "thai_name": "ปลาอัลลิเกเตอร์การ์",
+    "english_name": "Alligator Gar",
+    "scientific_name": "Atractosteus spatula",
+    "class": "Actinopterygii",
+    "order": "Lepisosteiformes",
+    "family": "Lepisosteidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "Chiang Mai Zoo Aquarium, ซาฟารีเวิลด์, พิพิธภัณฑ์สัตว์น้ำบางแสน",
+    "highlight_notes": "ปากยาวคล้ายจระเข้ มีฟันคมกริบสองแถว เกล็ดแบบกานอยด์แข็งแรงคล้ายหินเคลือบ",
+    "zoos": [
+      "Chiang Mai Zoo Aquarium",
+      "ซาฟารีเวิลด์",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน"
+    ]
+  },
+  {
+    "id": 56,
+    "thai_name": "ม้าน้ำแคระซีบร้า",
+    "english_name": "Zebra Seahorse",
+    "scientific_name": "Hippocampus zebra",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "DD / เพาะเลี้ยง",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ลายทางสีขาวสลับดำคล้ายม้าลาย ลำตัวขนาดเล็กน่ารัก ดึงดูดความสนใจของผู้เข้าชม",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 57,
+    "thai_name": "ม้าน้ำดำ",
+    "english_name": "Black Seahorse",
+    "scientific_name": "Hippocampus kuda",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ตัวผู้มีกระเป๋าหน้าท้องทำหน้าที่อุ้มท้องและคลอดลูก หางม้วนเกี่ยวต้นหญ้าทะเลเพื่อยึดเกาะ",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  },
+  {
+    "id": 58,
+    "thai_name": "ม้าน้ำหนาม",
+    "english_name": "Spotted Seahorse (Thorny Seahorse)",
+    "scientific_name": "Hippocampus histrix",
+    "class": "Actinopterygii",
+    "order": "Syngnathiformes",
+    "family": "Syngnathidae",
+    "category": "สัตว์น้ำและปลา",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+    "highlight_notes": "ทั่วลำตัวมีหนามแหลมคมยื่นออกมาอย่างเด่นชัด จะงอยปากยาวเรียว ดูดกินแพลงก์ตอนสัตว์",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน"
+    ]
+  },
+  {
+    "id": 59,
+    "thai_name": "แมงกะพรุนพระจันทร์",
+    "english_name": "Moon Jellyfish",
+    "scientific_name": "Aurelia aurita",
+    "class": "Scyphozoa",
+    "order": "Semaeostomeae",
+    "family": "Ulmaridae",
+    "category": "สัตว์ไม่มีกระดูกสันหลังทางทะเล",
+    "origin_type": "สัตว์ทะเลสากล",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน (โซนแมงกะพรุนเรืองแสง)",
+    "highlight_notes": "ร่มลำตัวโปร่งใสสะท้อนแสงไฟหลากสี ดึงดูดนักท่องเที่ยวจำนวนมากในตู้จัดแสดงทรงกระบอก",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน (โซนแมงกะพรุนเรืองแสง)"
+    ]
+  },
+  {
+    "id": 60,
+    "thai_name": "แมงกะพรุนลอดช่อง / แมงกะพรุนลายจุด",
+    "english_name": "Spotted Jellyfish",
+    "scientific_name": "Mastigias papua",
+    "class": "Scyphozoa",
+    "order": "Rhizostomeae",
+    "family": "Mastigiidae",
+    "category": "สัตว์ไม่มีกระดูกสันหลังทางทะเล",
+    "origin_type": "สัตว์ทะเลสากล",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน, Chiang Mai Zoo Aquarium",
+    "highlight_notes": "ร่มสีน้ำตาลอมทองแต้มจุดสีขาวกลม อาศัยร่วมกับสาหร่ายซูแซนเทลลีสังเคราะห์แสงสร้างอาหาร",
+    "zoos": [
+      "สถาบันวิทยาศาสตร์ทางทะเล ม.บูรพา บางแสน",
+      "Chiang Mai Zoo Aquarium"
+    ]
+  }
+]

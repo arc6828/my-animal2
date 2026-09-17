@@ -1,0 +1,1237 @@
+[
+  {
+    "id": 1,
+    "thai_name": "กิ้งก่าคาเมเลียนแพนเธอร์",
+    "english_name": "Panther Chameleon",
+    "scientific_name": "Furcifer pardalis",
+    "order": "Squamata",
+    "family": "Chamaeleonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "เปลี่ยนสีสันสดใสได้หลากหลายทั้งแดง ฟ้า เขียว ส้ม ตามอารมณ์และอุณหภูมิจากมาดากัสการ์",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 2,
+    "thai_name": "กิ้งก่าคาเมเลียนเยเมน",
+    "english_name": "Veiled Chameleon",
+    "scientific_name": "Chamaeleo calyptratus",
+    "order": "Squamata",
+    "family": "Chamaeleonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "บนหัวมีหมวกทรงสูงขนาดใหญ่ ดวงตากลอกหมุนอิสระ 360 องศา ลิ้นยืดพุ่งจับแมลงได้ไกล",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 3,
+    "thai_name": "กิ้งก่าบาซิลิสก์ / กิ้งก่าพระเยซู",
+    "english_name": "Plumed Basilisk",
+    "scientific_name": "Basiliscus plumifrons",
+    "order": "Squamata",
+    "family": "Corytophanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "สีเขียวมรกต บนหัวและหลังมีหงอนสูง วิ่งสองขาบนผิวน้ำได้ไกลหลายเมตรเพื่อหนีศัตรู",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 4,
+    "thai_name": "กิ้งก่าบินปีกส้ม",
+    "english_name": "Orange-winged Flying Lizard",
+    "scientific_name": "Draco maculatus",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา",
+    "highlight_notes": "มีซี่โครงพิเศษกางออกเป็นพังผืดคล้ายปีก สามารถร่อนข้ามระหว่างต้นไม้ในป่าได้ไกลนับสิบเมตร",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 5,
+    "thai_name": "กิ้งก่าเบียร์ดดราก้อน",
+    "english_name": "Bearded Dragon",
+    "scientific_name": "Pogona vitticeps",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว (โซนสัตว์แปลก), สวนสัตว์เชียงใหม่",
+    "highlight_notes": "กิ้งก่าเคราทะเลทรายออสเตรเลีย พองแผงคอสีดำเพื่อขู่ศัตรู เชื่องมากและเป็นสัตว์เลี้ยงยอดนิยม",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว (โซนสัตว์แปลก)",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 6,
+    "thai_name": "กิ้งก่าฟริลเน็ค / กิ้งก่าแผงคอ",
+    "english_name": "Frilled Lizard",
+    "scientific_name": "Chlamydosaurus kingii",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "ซาฟารีเวิลด์, สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "กางแผงหนังรอบคอออกขนาดใหญ่เมื่อตกใจ อ้าปากสีเหลืองสดใส วิ่งสองขาหนีศัตรู",
+    "zoos": [
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 7,
+    "thai_name": "กิ้งก่ามอนิเตอร์ต้นไม้มรกต",
+    "english_name": "Green Tree Monitor",
+    "scientific_name": "Varanus prasinus",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "สีเขียวมรกตสดใส หางยาวม้วนเกาะกิ่งไม้ได้ อาศัยบนเรือนยอดไม้ในป่านิวกินี",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 8,
+    "thai_name": "กิ้งก่ามอนิเตอร์ต้นไม้สีดำ",
+    "english_name": "Black Tree Monitor",
+    "scientific_name": "Varanus beccarii",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "ขนสีดำสนิททั่วทั้งตัว หางเรียวยาวม้วนจับกิ่งไม้ ว่องไวและปราดเปรียวบนต้นไม้สูง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 9,
+    "thai_name": "กิ้งก่าหัวสีฟ้า / กิ้งก่าดง",
+    "english_name": "Blue-crested Lizard",
+    "scientific_name": "Calotes mystaceus",
+    "order": "Squamata",
+    "family": "Agamidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "ตัวผู้ในฤดูผสมพันธุ์ ส่วนหัว ลำคอ และลำตัวครึ่งหน้าจะเปลี่ยนเป็นสีฟ้าครามสดใสโดดเด่น",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 10,
+    "thai_name": "กิ้งก่าอีกัวน่าเขียว",
+    "english_name": "Green Iguana",
+    "scientific_name": "Iguana iguana",
+    "order": "Squamata",
+    "family": "Iguanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์, สวนสัตว์เชียงใหม่, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "กิ้งก่ากินพืชขนาดใหญ่จากอเมริกาใต้ แผงหนามบนสันหลังยาว ว่ายน้ำเก่งและดำน้ำได้นาน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 11,
+    "thai_name": "กิ้งก่าอีกัวน่าแรด",
+    "english_name": "Rhinoceros Iguana",
+    "scientific_name": "Cyclura cornuta",
+    "order": "Squamata",
+    "family": "Iguanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "ซาฟารีเวิลด์, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "มีปุ่มนอขนาดเล็กคล้ายนอแรดบนปลายจมูก ลำตัวสีเทาเข้ม แข็งแรงและปีนป่ายโขดหินได้ดี",
+    "zoos": [
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 12,
+    "thai_name": "งูกะปะ",
+    "english_name": "Malayan Pit Viper",
+    "scientific_name": "Calloselasma rhodostoma",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์สงขลา, สวนสัตว์เปิดเขาเขียว, สวนงู สถานเสาวภา",
+    "highlight_notes": "หัวสามเหลี่ยมปลายแหลม ลายพรางสามเหลี่ยมคล้ายใบไม้แห้ง ก่อให้เกิดผู้ถูกกัดมากที่สุดในภาคใต้",
+    "zoos": [
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนงู สถานเสาวภา"
+    ]
+  },
+  {
+    "id": 13,
+    "thai_name": "งูเขียวหางไหม้ท้องเหลือง",
+    "english_name": "White-lipped Pit Viper",
+    "scientific_name": "Trimeresurus albolabris",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนงู สถานเสาวภา",
+    "highlight_notes": "หัวรูปสามเหลี่ยม ตาโตสีแดง ปลายหางสีน้ำตาลแดง มีหลุมรับรังสีความร้อนข้างแก้ม",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนงู สถานเสาวภา"
+    ]
+  },
+  {
+    "id": 14,
+    "thai_name": "งูคอร์นสเนค",
+    "english_name": "Corn Snake",
+    "scientific_name": "Pantherophis guttatus",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "งูลายข้าวโพดสีส้มแดง ไม่มีพิษ นิสัยเชื่อง นิยมใช้ในการศึกษาในกิจกรรม Zoo Education",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 15,
+    "thai_name": "งูจงอาง",
+    "english_name": "King Cobra",
+    "scientific_name": "Ophiophagus hannah",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, สวนสัตว์ขอนแก่น, หมู่บ้านงูจงอาง โคกสง่า",
+    "highlight_notes": "งูพิษที่ยาวที่สุดในโลก แผ่แม่เบี้ยได้สูงและส่งเสียงขู่คำราม กินงูชนิดอื่นเป็นอาหารหลัก",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์ขอนแก่น",
+      "หมู่บ้านงูจงอาง โคกสง่า"
+    ]
+  },
+  {
+    "id": 16,
+    "thai_name": "งูทับสมิงคลา",
+    "english_name": "Malayan Krait",
+    "scientific_name": "Bungarus candidus",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนงู สถานเสาวภา, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "ลายปล้องสีขาวสลับดำ พิษต่อระบบประสาทรุนแรงที่สุดชนิดหนึ่งในบรรดางูพิษของไทย",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนงู สถานเสาวภา",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 17,
+    "thai_name": "งูทางมะพร้าว",
+    "english_name": "Radiated Ratsnake (Copperhead Ratsnake)",
+    "scientific_name": "Coelognathus radiatus",
+    "order": "Squamata",
+    "family": "Colubridae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "งูไม่มีพิษ แกล้งตายเก่งมากเมื่อตกใจ พองคอแบนตามแนวตั้งและอ้าปากขู่ศัตรู",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 18,
+    "thai_name": "งูโบอาคอนสทริกเตอร์",
+    "english_name": "Boa Constrictor",
+    "scientific_name": "Boa constrictor",
+    "order": "Squamata",
+    "family": "Boidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "ซาฟารีเวิลด์, สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "งูรัดขนาดใหญ่จากอเมริกาใต้ ลวดลายสวยงาม ออกลูกเป็นตัว (Ovoviviparous)",
+    "zoos": [
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 19,
+    "thai_name": "งูแมวเซาอินเดีย",
+    "english_name": "Russell's Viper",
+    "scientific_name": "Daboia russelii",
+    "order": "Squamata",
+    "family": "Viperidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนงู สถานเสาวภา, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "ลายแต้มวงรีคล้ายเหรียญสามแถว ขู่เสียงดังคล้ายหม้อน้ำเดือด พิษทำลายระบบโลหิตและไตวาย",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนงู สถานเสาวภา",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 20,
+    "thai_name": "งูสามเหลี่ยม",
+    "english_name": "Banded Krait",
+    "scientific_name": "Bungarus fasciatus",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "ลำตัวเป็นสันสามเหลี่ยมชัดเจน ลายปล้องสีเหลืองสลับดำตลอดทั้งตัว นิสัยไม่ดุร้ายในเวลากลางวัน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 21,
+    "thai_name": "งูแสงอาทิตย์",
+    "english_name": "Sunbeam Snake",
+    "scientific_name": "Xenopeltis unicolor",
+    "order": "Squamata",
+    "family": "Xenopeltidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "เกล็ดสะท้อนแสงแดดเป็นสีรุ้งเหลือบเงางดงาม ไม่มีพิษ นิสัยเชื่อง ชอบมุดใต้ดินและซากใบไม้",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 22,
+    "thai_name": "งูหลามคาร์เพท",
+    "english_name": "Carpet Python",
+    "scientific_name": "Morelia spilota",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "ลวดลายสลับซับซ้อนคล้ายผืนพรมเปอร์เซีย อาศัยตามต้นไม้และโพรงหินในออสเตรเลีย",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 23,
+    "thai_name": "งูหลามต้นไม้สีเขียว",
+    "english_name": "Green Tree Python",
+    "scientific_name": "Morelia viridis",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, ซาฟารีเวิลด์",
+    "highlight_notes": "สีเขียวสดใส ขดตัวเป็นก้อนกลมพาดบนกิ่งไม้ ลูกแรกเกิดสีเหลืองหรือแดงสดก่อนเปลี่ยนสี",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 24,
+    "thai_name": "งูหลามทอง / งูหลามพม่า",
+    "english_name": "Burmese Python (Albino)",
+    "scientific_name": "Python bivittatus",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "งูหลามเผือกสีเหลืองทองและขาว ยอดนิยมอย่างยิ่งในโซนถ่ายรูปคู่กับนักท่องเที่ยวในสวนสัตว์",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 25,
+    "thai_name": "งูหลามบอล",
+    "english_name": "Ball Python (Royal Python)",
+    "scientific_name": "Python regius",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "NT (ใกล้ถูกคุกคาม)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, ซาฟารีเวิลด์",
+    "highlight_notes": "ขนาดกะทัดรัด มักขดตัวกลมแน่นคล้ายลูกบอลเมื่อรู้สึกตกใจ เชื่องและมีลวดลายผ่าเหล่ามากมาย",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 26,
+    "thai_name": "งูเหลือม",
+    "english_name": "Reticulated Python",
+    "scientific_name": "Malayopython reticulatus",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, สวนสัตว์เชียงใหม่, สวนสัตว์สงขลา",
+    "highlight_notes": "งูที่ยาวที่สุดในโลก ตัวโตเต็มวัยยาวได้กว่า 6-7 เมตร ลายตาข่ายเรขาคณิต เลื้อยว่ายน้ำและปีนต้นไม้คล่องแคล่ว",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 27,
+    "thai_name": "งูเหลือมปากเป็ด / งูหลามปากเป็ด",
+    "english_name": "Blood Python",
+    "scientific_name": "Python brongersmai",
+    "order": "Squamata",
+    "family": "Pythonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์สงขลา, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ลำตัวสั้นและอ้วนหนามากเป็นพิเศษ สีแดงเลือดนกหรือส้มอิฐ พบตามพื้นที่ชุ่มน้ำภาคใต้",
+    "zoos": [
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 28,
+    "thai_name": "งูเห่าไทย / งูเห่าหม้อ",
+    "english_name": "Monocled Cobra",
+    "scientific_name": "Naja kaouthia",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนงู สถานเสาวภา, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "แผ่แม่เบี้ยมีลวดลายดอกจันรูปวงแหวนเดี่ยว พิษทำลายระบบประสาทอย่างรุนแรง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนงู สถานเสาวภา",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 29,
+    "thai_name": "งูเห่าพ่นพิษสยาม",
+    "english_name": "Indochinese Spitting Cobra",
+    "scientific_name": "Naja siamensis",
+    "order": "Squamata",
+    "family": "Elapidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนงู สถานเสาวภา, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "สามารถพ่นน้ำพิษออกจากรูเขี้ยวได้ไกลกว่า 1-2 เมตร เล็งเป้าที่ดวงตาของศัตรูอย่างแม่นยำ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนงู สถานเสาวภา",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 30,
+    "thai_name": "งูอนาคอนดาเขียว",
+    "english_name": "Green Anaconda",
+    "scientific_name": "Eunectes murinus",
+    "order": "Squamata",
+    "family": "Boidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "ซาฟารีเวิลด์ (มารีนปาร์ค), สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "งูที่มีน้ำหนักตัวมากที่สุดในโลกจากป่าแอมะซอน อาศัยและซุ่มล่าเหยื่อใต้น้ำได้อย่างเชี่ยวชาญ",
+    "zoos": [
+      "ซาฟารีเวิลด์ (มารีนปาร์ค)",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 31,
+    "thai_name": "งูอนาคอนดาเหลือง",
+    "english_name": "Yellow Anaconda",
+    "scientific_name": "Eunectes notaeus",
+    "order": "Squamata",
+    "family": "Boidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "ซาฟารีเวิลด์, สวนสัตว์เปิดเขาเขียว",
+    "highlight_notes": "ขนาดเล็กกว่าอนาคอนดาเขียว ลำตัวสีเหลืองทองแต้มจุดสีดำกลม ซุ่มล่าปลาและนกน้ำ",
+    "zoos": [
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เปิดเขาเขียว"
+    ]
+  },
+  {
+    "id": 32,
+    "thai_name": "จระเข้น้ำเค็ม",
+    "english_name": "Saltwater Crocodile",
+    "scientific_name": "Crocodylus porosus",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC / CR ในไทย",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ฟาร์มจระเข้สมุทรปราการ, สวนสัตว์สงขลา",
+    "highlight_notes": "สัตว์เลื้อยคลานขนาดใหญ่ที่สุดในโลก กรามทรงพลังที่สุด ดำน้ำและว่ายข้ามทะเลได้ไกล",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ฟาร์มจระเข้สมุทรปราการ",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 33,
+    "thai_name": "จระเข้น้ำจืดพันธุ์ไทย",
+    "english_name": "Siamese Crocodile",
+    "scientific_name": "Crocodylus siamensis",
+    "order": "Crocodilia",
+    "family": "Crocodylidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, สวนสัตว์เชียงใหม่, บึงบอระเพ็ด นครสวรรค์",
+    "highlight_notes": "สัตว์ป่าสงวน/คุ้มครอง หายากมากในธรรมชาติ สวนสัตว์ไทยเพาะขยายพันธุ์ปล่อยคืนแหล่งน้ำธรรมชาติสำเร็จ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์เชียงใหม่",
+      "บึงบอระเพ็ด นครสวรรค์"
+    ]
+  },
+  {
+    "id": 34,
+    "thai_name": "จิ้งเหลนจระเข้ตาแดง",
+    "english_name": "Red-eyed Crocodile Skink",
+    "scientific_name": "Tribolonotus gracilis",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "เกล็ดสันหนามรอบตัวคล้ายจระเข้แคระ รอบตามีวงแหวนสีส้มแดงสดใส ส่งเสียงร้องขู่ได้",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 35,
+    "thai_name": "จิ้งเหลนลิ้นน้ำเงิน",
+    "english_name": "Blue-tongued Skink",
+    "scientific_name": "Tiliqua scincoides",
+    "order": "Squamata",
+    "family": "Scincidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, ซาฟารีเวิลด์",
+    "highlight_notes": "ลิ้นสีน้ำเงินเข้มสดใส แลบลิ้นขู่ศัตรู ลำตัวยาวขาสั้น เกล็ดเรียบเนียน เชื่องและเป็นมิตร",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 36,
+    "thai_name": "ซาวันน่ามอนิเตอร์",
+    "english_name": "Savannah Monitor",
+    "scientific_name": "Varanus exanthematicus",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "กิ้งก่ามอนิเตอร์ทุ่งหญ้าแอฟริกา ลำตัวสั้นหนากำยำ กรงเล็บแข็งแรงสำหรับขุดโพรงดินหาแมลง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 37,
+    "thai_name": "ตะกวด / แลน",
+    "english_name": "Clouded Monitor",
+    "scientific_name": "Varanus nebulosus",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "ตำแหน่งรูจมูกอยู่ใกล้ดวงตา ปรับตัวอาศัยตามป่าโปร่งและปีนป่ายต้นไม้ได้เก่งกว่าตัวเงินตัวทอง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 38,
+    "thai_name": "ตะโขง",
+    "english_name": "Tomistoma (False Gharial)",
+    "scientific_name": "Tomistoma schlegelii",
+    "order": "Crocodilia",
+    "family": "Gavialidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "จะงอยปากแคบเรียวยาวเป็นพิเศษ เชี่ยวชาญการจับปลา อาศัยตามป่าพรุภาคใต้ หายากมาก",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 39,
+    "thai_name": "ตะโขงอินเดีย / กาเรียล",
+    "english_name": "Gharial",
+    "scientific_name": "Gavialis gangeticus",
+    "order": "Crocodilia",
+    "family": "Gavialidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "ฟาร์มจระเข้สมุทรปราการ, ซาฟารีเวิลด์",
+    "highlight_notes": "ปลายจมูกตัวผู้มีก้อนเนื้อโป่งกลมคล้ายหม้อดินอินเดีย (Ghara) ปากยาวแคบเรียวยาวมาก",
+    "zoos": [
+      "ฟาร์มจระเข้สมุทรปราการ",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 40,
+    "thai_name": "ตะพาบไต้หวัน",
+    "english_name": "Chinese Softshell Turtle",
+    "scientific_name": "Pelodiscus sinensis",
+    "order": "Testudines",
+    "family": "Trionychidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, บึงฉวาก",
+    "highlight_notes": "ตะพาบเศรษฐกิจที่เพาะเลี้ยงกันแพร่หลาย ปากแหลมยื่นคล้ายงวงหมู กัดเหยื่อแน่นไม่ยอมปล่อย",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "บึงฉวาก"
+    ]
+  },
+  {
+    "id": 41,
+    "thai_name": "ตะพาบม่านลายไทย",
+    "english_name": "Nutaphand's Narrow-headed Softshell Turtle",
+    "scientific_name": "Chitra chitra",
+    "order": "Testudines",
+    "family": "Trionychidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สถานีวิจัยประมงน้ำจืดกาญจนบุรี, แม่น้ำแควน้อย",
+    "highlight_notes": "ตะพาบน้ำจืดขนาดใหญ่ที่สุดในโลก หนักได้กว่า 100-120 กก. หัวแคบยาวลายม่านสวยงาม",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สถานีวิจัยประมงน้ำจืดกาญจนบุรี",
+      "แม่น้ำแควน้อย"
+    ]
+  },
+  {
+    "id": 42,
+    "thai_name": "ตะพาบหัวกบ / ตะพาบกันกรัง",
+    "english_name": "Asian Giant Softshell Turtle",
+    "scientific_name": "Pelochelys cantorii",
+    "order": "Testudines",
+    "family": "Trionychidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา",
+    "highlight_notes": "หัวสั้นทู่คล้ายกบ ฝังตัวอยู่ใต้ทรายใต้น้ำเพื่อซุ่มดักเหยื่อ โตเต็มที่หนักได้ถึง 100 กก.",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 43,
+    "thai_name": "ตัวเงินตัวทอง / เหี้ย",
+    "english_name": "Asian Water Monitor",
+    "scientific_name": "Varanus salvator",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา, สวนสัตว์ดุสิต (เดิม)",
+    "highlight_notes": "สัตว์เลื้อยคลานขนาดใหญ่อันดับสองรองจากมังกรโคโมโด ว่ายน้ำและดำน้ำได้อย่างคล่องแคล่ว",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์ดุสิต (เดิม)"
+    ]
+  },
+  {
+    "id": 44,
+    "thai_name": "ตุ๊กแกบ้าน",
+    "english_name": "Tokay Gecko",
+    "scientific_name": "Gekko gecko",
+    "order": "Squamata",
+    "family": "Gekkonidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา, สวนสัตว์นครราชสีมา",
+    "highlight_notes": "ตุ๊กแกขนาดใหญ่ ลายจุดสีส้มฟ้า ร้องเสียงก้อง 'ตั๊กแก' มีบทบาทสำคัญในการควบคุมประชากรแมลง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 45,
+    "thai_name": "ตุ๊กแกเสือดาว",
+    "english_name": "Leopard Gecko",
+    "scientific_name": "Eublepharis macularius",
+    "order": "Squamata",
+    "family": "Eublepharidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "มีเปลือกตากะพริบตาได้ ลวดลายจุดแต้มคล้ายเสือดาว หางหนาสะสมไขมัน ไม่มีปุ่มดูดเกาะกระจก",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 46,
+    "thai_name": "ตุ๊ดตู่",
+    "english_name": "Dumeril's Monitor",
+    "scientific_name": "Varanus dumerilii",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา",
+    "highlight_notes": "สัตว์ตระกูลเหี้ยขนาดเล็ก หัวสั้นมน นิสัยรักสงบ อาศัยตามป่าพรุและกินปูหอยเป็นอาหารหลัก",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 47,
+    "thai_name": "เต่าแก้มแดง / เต่าญี่ปุ่น",
+    "english_name": "Red-eared Slider",
+    "scientific_name": "Trachemys scripta elegans",
+    "order": "Testudines",
+    "family": "Emydidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Alien Invasive)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, ซาฟารีเวิลด์",
+    "highlight_notes": "มีแถบสีแดงสดข้างแก้มทั้งสองข้าง แพร่พันธุ์รวดเร็วและเป็นสัตว์ต่างถิ่นรุกรานในแหล่งน้ำธรรมชาติ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 48,
+    "thai_name": "เต่าคอยาวออสเตรเลีย",
+    "english_name": "Eastern Long-necked Turtle",
+    "scientific_name": "Chelodina longicollis",
+    "order": "Testudines",
+    "family": "Chelidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "คอยาวเกือบเท่าความยาวกระดอง หดคอเข้ากระดองไม่ได้ แต่จะพับคอไปด้านข้าง (Side-necked)",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 49,
+    "thai_name": "เต่าจมูกหมู / เต่าบินฟลอริดา",
+    "english_name": "Pig-nosed Turtle (Fly River Turtle)",
+    "scientific_name": "Carettochelys insculpta",
+    "order": "Testudines",
+    "family": "Carettochelyidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, Chiang Mai Zoo Aquarium, พิพิธภัณฑ์สัตว์น้ำบางแสน",
+    "highlight_notes": "จมูกยื่นยาวคล้ายจมูกหมู ขาหน้าแบนเป็นใบพายคล้ายเต่าทะเล อาศัยในน้ำจืดตลอดชีวิต",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "Chiang Mai Zoo Aquarium",
+      "พิพิธภัณฑ์สัตว์น้ำบางแสน"
+    ]
+  },
+  {
+    "id": 50,
+    "thai_name": "เต่าซูลคาตา / เต่าเดือยแอฟริกา",
+    "english_name": "African Spurred Tortoise (Sulcata)",
+    "scientific_name": "Centrochelys sulcata",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนสัตว์ขอนแก่น, สวนสัตว์อุบลราชธานี",
+    "highlight_notes": "เต่าบกขนาดใหญ่อันดับสามของโลก มีเดือยแหลมแข็งที่ขาหลัง ชอบเดินตากแดดและกินหญ้า",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์ขอนแก่น",
+      "สวนสัตว์อุบลราชธานี"
+    ]
+  },
+  {
+    "id": 51,
+    "thai_name": "เต่าดาวพม่า",
+    "english_name": "Burmese Star Tortoise",
+    "scientific_name": "Geochelone platynota",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "ลวดลายดาวบนกระดองเส้นสายคมชัดและสมมาตรกว่าเต่าดาวอินเดีย ใต้ท้องมีลายรูปพัดสีดำ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 52,
+    "thai_name": "เต่าดาวอินเดีย",
+    "english_name": "Indian Star Tortoise",
+    "scientific_name": "Geochelone elegans",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, ซาฟารีเวิลด์",
+    "highlight_notes": "กระดองทรงโดมมีสันนูนเป็นแฉกลวดลายรูปดาวสีเหลืองตัดกับสีดำสวยงามโดดเด่น",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 53,
+    "thai_name": "เต่านา",
+    "english_name": "Malayan Snail-eating Turtle",
+    "scientific_name": "Malayemys macrocephala",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, สวนสัตว์สงขลา",
+    "highlight_notes": "หัวโต เส้นสีขาวพาดผ่านดวงตา กรามแข็งแรงขบเปลือกหอยโข่งและหอยเชอรี่แตกเป็นอาหาร",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 54,
+    "thai_name": "เต่าบึงหัวเหลือง",
+    "english_name": "Yellow-headed Temple Turtle",
+    "scientific_name": "Heosemys annandalii",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์ดุสิต (เดิม), สวนสัตว์นครราชสีมา",
+    "highlight_notes": "เต่าน้ำจืดขนาดใหญ่ หัวสีเหลืองมีลายเส้นสีเข้ม อาศัยตามหนองบึงและคุ้นเคยกับบ่อเต่าตามวัดโบราณ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์ดุสิต (เดิม)",
+      "สวนสัตว์นครราชสีมา"
+    ]
+  },
+  {
+    "id": 55,
+    "thai_name": "เต่าปูลู",
+    "english_name": "Big-headed Turtle",
+    "scientific_name": "Platysternon megacephalum",
+    "order": "Testudines",
+    "family": "Platysternidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เชียงใหม่, สถานีวิจัยสัตว์ป่าดอยเชียงดาว, ภูหลวง เลย",
+    "highlight_notes": "หัวโตกระดูกหนาจนหดเข้ากระดองไม่ได้ หางยาว ปากงุ้มคล้ายนกแก้ว ปีนป่ายโขดหินน้ำตกสูงชันได้",
+    "zoos": [
+      "สวนสัตว์เชียงใหม่",
+      "สถานีวิจัยสัตว์ป่าดอยเชียงดาว",
+      "ภูหลวง เลย"
+    ]
+  },
+  {
+    "id": 56,
+    "thai_name": "เต่ามาตามาตา",
+    "english_name": "Matamata Turtle",
+    "scientific_name": "Chelus fimbriata",
+    "order": "Testudines",
+    "family": "Chelidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "หัวรูปสามเหลี่ยมแบน ผิวหนังมีติ่งเนื้อพรางตัวกลมกลืนกับใบไม้ใต้น้ำ อ้าปากดูดเหยื่อด้วยความเร็วสูง",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 57,
+    "thai_name": "เต่ายักษ์กาลาปากอส",
+    "english_name": "Galapagos Giant Tortoise",
+    "scientific_name": "Chelonoidis niger",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "CR / VU (ขึ้นกับชนิดย่อย)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "เต่าบกขนาดใหญ่ที่สุดในโลก คอยาว กระดองรูปอานม้า สัญลักษณ์แห่งหมู่เกาะกาลาปากอส",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 58,
+    "thai_name": "เต่ายักษ์อัลดาบรา",
+    "english_name": "Aldabra Giant Tortoise",
+    "scientific_name": "Aldabrachelys gigantea",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนสัตว์นครราชสีมา, ซาฟารีเวิลด์",
+    "highlight_notes": "เต่าบกขนาดยักษ์อันดับสองของโลกจากเซเชลส์ อายุยืนยาวกว่า 100-150 ปี หนักได้ถึง 250 กก.",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์นครราชสีมา",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 59,
+    "thai_name": "เต่าเยลโลว์ฟุต / เต่าขาเหลือง",
+    "english_name": "Yellow-footed Tortoise",
+    "scientific_name": "Chelonoidis denticulatus",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "ขนาดใหญ่กว่าเต่าขาแดง เกล็ดที่ขาและหัวมีแต้มสีเหลืองทอง อาศัยตามป่าดิบชื้นแอมะซอน",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 60,
+    "thai_name": "เต่ารัศมีดารา",
+    "english_name": "Radiated Tortoise",
+    "scientific_name": "Astrochelys radiata",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "หนึ่งในเต่าบกที่กระดองสวยงามที่สุดในโลกจากมาดากัสการ์ ลายรัศมีสีเหลืองแผ่กระจายรอบจุดดำ",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 61,
+    "thai_name": "เต่าเรดฟุต / เต่าขาแดง",
+    "english_name": "Red-footed Tortoise",
+    "scientific_name": "Chelonoidis carbonarius",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "เกล็ดที่ขาและหัวมีแต้มสีแดงส้มสดใส กระดองเว้าคอดตรงกลางคล้ายนาฬิกาทราย",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 62,
+    "thai_name": "เต่าสแนปปิ้งจระเข้",
+    "english_name": "Alligator Snapping Turtle",
+    "scientific_name": "Macrochelys temminckii",
+    "order": "Testudines",
+    "family": "Chelydridae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "VU (มีแนวโน้มใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "กระดองมีสันหนามสามแถวคล้ายหลังจระเข้ ในปากมีลิ้นสีชมพูขยับได้คล้ายหนอนเพื่อล่อปลา",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 63,
+    "thai_name": "เต่าสแนปปิ้งสามัญ",
+    "english_name": "Common Snapping Turtle",
+    "scientific_name": "Chelydra serpentina",
+    "order": "Testudines",
+    "family": "Chelydridae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, ซาฟารีเวิลด์",
+    "highlight_notes": "คอยาว ยืดคอฉกกัดเหยื่อได้รวดเร็ว กรามแข็งแกร่ง หางยาวมีสันหนามคล้ายจระเข้",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 64,
+    "thai_name": "เต่าเสือดาว",
+    "english_name": "Leopard Tortoise",
+    "scientific_name": "Stigmochelys pardalis",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, ซาฟารีเวิลด์",
+    "highlight_notes": "กระดองทรงโดมสูงลวดลายจุดและแต้มสีดำสลับเหลืองคล้ายลายเสือดาวจากแอฟริกา",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "ซาฟารีเวิลด์"
+    ]
+  },
+  {
+    "id": 65,
+    "thai_name": "เต่าหกเหลือง",
+    "english_name": "Asian Giant Tortoise",
+    "scientific_name": "Manouria emys",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์เชียงใหม่, สวนสัตว์สงขลา",
+    "highlight_notes": "เต่าบกขนาดใหญ่ที่สุดในเอเชีย อาศัยตามป่าดงดิบชื้น ทำรังวางไข่โดยการกวาดใบไม้มากองคล้ายรังนก",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์เชียงใหม่",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 66,
+    "thai_name": "เต่าหับ",
+    "english_name": "Malayan Box Turtle",
+    "scientific_name": "Cuora amboinensis",
+    "order": "Testudines",
+    "family": "Geoemydidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา, สวนสัตว์เชียงใหม่",
+    "highlight_notes": "กระดองท้องมีบานพับ สามารถปิดกระดองสนิทได้ทั้งหน้าและหลังเพื่อป้องกันตัวจากศัตรู",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา",
+      "สวนสัตว์เชียงใหม่"
+    ]
+  },
+  {
+    "id": 67,
+    "thai_name": "เต่าเหลือง / เต่าเทียน",
+    "english_name": "Elongated Tortoise",
+    "scientific_name": "Indotestudo elongata",
+    "order": "Testudines",
+    "family": "Testudinidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "CR (วิกฤติต่อการสูญพันธุ์)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์นครราชสีมา, สวนสัตว์ขอนแก่น (หมู่บ้านเต่าเพ็ก)",
+    "highlight_notes": "เต่าบกพบบ่อยที่สุดในไทย กระดองสีเหลืองเทา ในฤดูผสมพันธุ์ผิวหนังรอบจมูกและตาจะเปลี่ยนเป็นสีชมพู",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์นครราชสีมา",
+      "สวนสัตว์ขอนแก่น (หมู่บ้านเต่าเพ็ก)"
+    ]
+  },
+  {
+    "id": 68,
+    "thai_name": "มังกรโคโมโด",
+    "english_name": "Komodo Dragon",
+    "scientific_name": "Varanus komodoensis",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "EN (ใกล้สูญพันธุ์)",
+    "thai_zoos": "ซาฟารีเวิลด์ (มารีนปาร์ค), สวนสัตว์ดุสิต (เดิม)",
+    "highlight_notes": "กิ้งก่าที่ใหญ่และหนักที่สุดในโลก มีต่อมผลิตสารพิษลดความดันโลหิตและทำให้เหยื่อเสียเลือดจนตาย",
+    "zoos": [
+      "ซาฟารีเวิลด์ (มารีนปาร์ค)",
+      "สวนสัตว์ดุสิต (เดิม)"
+    ]
+  },
+  {
+    "id": 69,
+    "thai_name": "เห่าต่าง / เห่าช้าง",
+    "english_name": "Roughneck Monitor",
+    "scientific_name": "Varanus rudicollis",
+    "order": "Squamata",
+    "family": "Varanidae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ประจำถิ่นไทย (Native)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "สวนสัตว์เปิดเขาเขียว, สวนสัตว์สงขลา",
+    "highlight_notes": "เกล็ดรอบคอหนาหยาบและแหลม ขู่ศัตรูโดยการพองคอและทำเสียงฟู่คล้ายงูเห่า",
+    "zoos": [
+      "สวนสัตว์เปิดเขาเขียว",
+      "สวนสัตว์สงขลา"
+    ]
+  },
+  {
+    "id": 70,
+    "thai_name": "แอลลิเกเตอร์อเมริกัน",
+    "english_name": "American Alligator",
+    "scientific_name": "Alligator mississippiensis",
+    "order": "Crocodilia",
+    "family": "Alligatoridae",
+    "category": "สัตว์เลื้อยคลาน",
+    "origin_type": "สัตว์ต่างถิ่นนำเข้า (Exotic)",
+    "iucn_status": "LC (มีความเสี่ยงต่ำ)",
+    "thai_zoos": "ซาฟารีเวิลด์, ฟาร์มจระเข้สมุทรปราการ",
+    "highlight_notes": "ปลายปากกว้างมนรูปตัว U ฟันล่างซ่อนในขากรรไกรบนเมื่อหุบปาก ทนต่อสภาพอากาศเย็นได้ดี",
+    "zoos": [
+      "ซาฟารีเวิลด์",
+      "ฟาร์มจระเข้สมุทรปราการ"
+    ]
+  }
+]
