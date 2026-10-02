@@ -1,0 +1,18 @@
+{
+    "overall_accuracy": {
+        "accuracy": 0.56,
+        "total_samples": 4717
+    },
+    "macro_avg": {
+        "precision": 0.56,
+        "recall": 0.56,
+        "f1_score": 0.55,
+        "support": 4717
+    },
+    "weighted_avg": {
+        "precision": 0.56,
+        "recall": 0.56,
+        "f1_score": 0.55,
+        "support": 4717
+    }
+}

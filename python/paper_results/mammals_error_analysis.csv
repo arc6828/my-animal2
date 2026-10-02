@@ -1,0 +1,6 @@
+﻿rank,actual_species,predicted_species,error_count,analysis_notes
+1,จิ้งจอกเฟนเนก,ชะมดแผงหางปล้อง,21,Small desert canid misclassified as viverrid due to similar ear/body proportions in cluttered backgrounds
+2,ลิงทามารินสิงโตทอง,ชะมดแผงหางปล้อง,19,Arboreal primate misclassified due to distinctive golden-yellow fur patterns mimicking banded tail markings
+3,ชะนีมือดำ,กระรอกหางม้าข้อดำ,12,Black gibbon confounded with dark arboreal sciurid in dense foliage background
+4,อูฐกัวนาโก,ลามะ,11,Close camelid sister species with highly overlapping morphology and head structure
+5,สปริงบอก,กาเซลล์ทอมสัน,10,Sympatric small antelopes with closely related white/tan coat markings and facial stripes

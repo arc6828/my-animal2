@@ -1,0 +1,20 @@
+[
+    {
+        "model_name":"EfficientNetB0",
+        "model_stage":"Pre-quantization",
+        "format":"Keras H5 (FP32)",
+        "file_name":"mammals_best_model.h5",
+        "size_mb":17.31,
+        "size_reduction_pct":0.0,
+        "target_runtime":"Server \/ GPU Workstation"
+    },
+    {
+        "model_name":"EfficientNetB0",
+        "model_stage":"Post-training Quantization (Default)",
+        "format":"TensorFlow Lite (.tflite)",
+        "file_name":"mammals_classifier.tflite",
+        "size_mb":4.69,
+        "size_reduction_pct":72.91,
+        "target_runtime":"Mobile Edge (Android \/ iOS \/ Embedded)"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "rank":1,
+        "actual_species":"จิ้งจอกเฟนเนก",
+        "predicted_species":"ชะมดแผงหางปล้อง",
+        "error_count":21,
+        "analysis_notes":"Small desert canid misclassified as viverrid due to similar ear\/body proportions in cluttered backgrounds"
+    },
+    {
+        "rank":2,
+        "actual_species":"ลิงทามารินสิงโตทอง",
+        "predicted_species":"ชะมดแผงหางปล้อง",
+        "error_count":19,
+        "analysis_notes":"Arboreal primate misclassified due to distinctive golden-yellow fur patterns mimicking banded tail markings"
+    },
+    {
+        "rank":3,
+        "actual_species":"ชะนีมือดำ",
+        "predicted_species":"กระรอกหางม้าข้อดำ",
+        "error_count":12,
+        "analysis_notes":"Black gibbon confounded with dark arboreal sciurid in dense foliage background"
+    },
+    {
+        "rank":4,
+        "actual_species":"อูฐกัวนาโก",
+        "predicted_species":"ลามะ",
+        "error_count":11,
+        "analysis_notes":"Close camelid sister species with highly overlapping morphology and head structure"
+    },
+    {
+        "rank":5,
+        "actual_species":"สปริงบอก",
+        "predicted_species":"กาเซลล์ทอมสัน",
+        "error_count":10,
+        "analysis_notes":"Sympatric small antelopes with closely related white\/tan coat markings and facial stripes"
+    }
+]

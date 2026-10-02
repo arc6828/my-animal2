@@ -1,0 +1,26 @@
+[
+    {
+        "model_architecture":"MobileNetV2",
+        "phase1_best_val_accuracy":0.4227,
+        "phase2_best_val_accuracy":0.4982,
+        "phase2_min_val_loss":2.1578,
+        "phase1_best_val_acc_pct":"42.27%",
+        "phase2_best_val_acc_pct":"49.82%"
+    },
+    {
+        "model_architecture":"EfficientNetB0",
+        "phase1_best_val_accuracy":0.4976,
+        "phase2_best_val_accuracy":0.5652,
+        "phase2_min_val_loss":1.8028,
+        "phase1_best_val_acc_pct":"49.76%",
+        "phase2_best_val_acc_pct":"56.52%"
+    },
+    {
+        "model_architecture":"ResNet50V2",
+        "phase1_best_val_accuracy":0.3909,
+        "phase2_best_val_accuracy":0.4842,
+        "phase2_min_val_loss":2.3864,
+        "phase1_best_val_acc_pct":"39.09%",
+        "phase2_best_val_acc_pct":"48.42%"
+    }
+]

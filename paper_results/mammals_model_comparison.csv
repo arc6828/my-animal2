@@ -1,0 +1,4 @@
+﻿model_architecture,phase1_best_val_accuracy,phase2_best_val_accuracy,phase2_min_val_loss,phase1_best_val_acc_pct,phase2_best_val_acc_pct
+MobileNetV2,0.4227,0.4982,2.1578,42.27%,49.82%
+EfficientNetB0,0.4976,0.5652,1.8028,49.76%,56.52%
+ResNet50V2,0.3909,0.4842,2.3864,39.09%,48.42%

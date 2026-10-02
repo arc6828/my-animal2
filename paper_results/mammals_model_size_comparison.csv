@@ -1,0 +1,3 @@
+﻿model_name,model_stage,format,file_name,size_mb,size_reduction_pct,target_runtime
+EfficientNetB0,Pre-quantization,Keras H5 (FP32),mammals_best_model.h5,17.31,0.0,Server / GPU Workstation
+EfficientNetB0,Post-training Quantization (Default),TensorFlow Lite (.tflite),mammals_classifier.tflite,4.69,72.91,Mobile Edge (Android / iOS / Embedded)
