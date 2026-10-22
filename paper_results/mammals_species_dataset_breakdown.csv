@@ -1,0 +1,163 @@
+﻿ชื่อภาษาไทย,ชื่อภาษาอังกฤษ,ชื่อวิทยาศาสตร์,ภาพฝึกสอน (Train),ภาพตรวจสอบ (Val),ภาพรวมทั้งหมด (Total),สัดส่วน Train (%),สัดส่วน Val (%),จำนวนภาพบน GBIF ทั้งหมด
+กระจงควาย,Greater Mouse-deer,Tragulus napu,120,29,149,80.5%,19.5%,471
+กระจงเล็ก,Lesser Mouse-deer,Tragulus kanchil,120,30,150,80.0%,20.0%,1110
+กระต่ายแคระฮอลแลนด์ลอป,Holland Lop Rabbit,Oryctolagus cuniculus,120,29,149,80.5%,19.5%,60228
+กระทิง,Gaur,Bos gaurus,120,30,150,80.0%,20.0%,1864
+กระรอกท้องแดง,Pallas's Squirrel (Red-bellied Squirrel),Callosciurus erythraeus,120,30,150,80.0%,20.0%,8499
+กระรอกสามสี,Prevost's Squirrel,Callosciurus prevostii,120,30,150,80.0%,20.0%,1476
+กระรอกหน้ากระแต,Berdmore's Ground Squirrel,Menetes berdmorei,120,30,150,80.0%,20.0%,695
+กระรอกหลากสี,Variable Squirrel,Callosciurus finlaysonii,120,30,150,80.0%,20.0%,3655
+กระรอกหางม้าข้อดำ,Horse-tailed Squirrel,Sundasciurus hippurus,86,21,107,80.4%,19.6%,108
+กระแตเหนือ,Northern Treeshrew,Tupaia belangeri,120,30,150,80.0%,20.0%,1942
+กระแตใต้,Common Treeshrew,Tupaia glis,120,30,150,80.0%,20.0%,890
+กวางซีก้า,Sika Deer,Cervus nippon,120,30,150,80.0%,20.0%,6104
+กวางดาว,Chital / Spotted Deer,Axis axis,120,30,150,80.0%,20.0%,6656
+กวางบาราสิงห์,Barasingha (Swamp Deer),Rucervus duvaucelii,120,29,149,80.5%,19.5%,639
+กวางป่า,Sambar Deer,Rusa unicolor,120,30,150,80.0%,20.0%,5252
+กวางป่าฟิลิปปินส์,Philippine Deer,Rusa marianna,110,27,137,80.3%,19.7%,143
+กวางผาจีน,Chinese Goral,Naemorhedus griseus,120,30,150,80.0%,20.0%,217
+กวางพูดูใต้,Southern Pudu,Pudu puda,120,30,150,80.0%,20.0%,425
+กวางฟอลโลว์,Fallow Deer,Dama dama,120,30,150,80.0%,20.0%,24849
+กวางมูส,Moose (Eurasian Elk),Alces alces,120,29,149,80.5%,19.5%,44876
+กวางรูซาชวา,Javan Rusa (Sunda Sambar),Rusa timorensis,120,30,150,80.0%,20.0%,1151
+กวางเรนเดียร์,Reindeer (Caribou),Rangifer tarandus,120,30,150,80.0%,20.0%,10998
+กวางแดงยุโรป,Red Deer,Cervus elaphus,120,29,149,80.5%,19.5%,67055
+กาเซลล์ดอร์คัส,Dorcas Gazelle,Gazella dorcas,120,30,150,80.0%,20.0%,605
+กาเซลล์ทอมสัน,Thomson's Gazelle (Tommie),Eudorcas thomsonii,120,30,150,80.0%,20.0%,2302
+คลิปสปริงเกอร์,Klipspringer,Oreotragus oreotragus,120,30,150,80.0%,20.0%,3334
+ควายป่า,Wild Water Buffalo,Bubalus arnee,120,30,150,80.0%,20.0%,750
+ควายป่าแอฟริกา,Wild Water Buffalo,Bubalus arnee,120,30,150,80.0%,20.0%,750
+คาปิบารา,Capybara,Hydrochoerus hydrochaeris,120,30,150,80.0%,20.0%,11011
+คาราคัล,Caracal,Caracal caracal,120,30,150,80.0%,20.0%,1311
+ค่างดำมลายู,Silvered Leaf Monkey,Trachypithecus cristatus,120,30,150,80.0%,20.0%,1334
+ค่างห้าสี,Red-shanked Douc Langur,Pygathrix nemaeus,120,30,150,80.0%,20.0%,657
+ค่างแว่นถิ่นเหนือ,Phayre's Leaf Monkey,Trachypithecus phayrei,90,22,112,80.4%,19.6%,119
+ค่างแว่นถิ่นใต้,Dusky Leaf Monkey,Trachypithecus obscurus,120,30,150,80.0%,20.0%,3191
+ค้างคาวแม่ไก่ป่าดงดิบ,Large Flying Fox,Pteropus vampyrus,120,29,149,80.5%,19.5%,779
+ค้างคาวแม่ไก่ภาคกลาง,Lyle's Flying Fox,Pteropus lylei,90,22,112,80.4%,19.6%,119
+จามรี,Domestic Yak,Bos grunniens,120,30,150,80.0%,20.0%,515
+จิงโจ้แดง,Red Kangaroo,Osphranter rufus,120,29,149,80.5%,19.5%,1385
+จิ้งจอกเฟนเนก,Fennec Fox,Vulpes zerda,120,30,150,80.0%,20.0%,187
+ชะนีมงกุฎ,Pileated Gibbon,Hylobates pileatus,94,23,117,80.3%,19.7%,116
+ชะนีมือขาว,Lar Gibbon (White-handed Gibbon),Hylobates lar,120,30,150,80.0%,20.0%,1235
+ชะนีมือดำ,Agile Gibbon,Hylobates agilis,86,21,107,80.4%,19.6%,113
+ชะมดเช็ด,Small Indian Civet,Viverricula indica,120,30,150,80.0%,20.0%,637
+ชะมดแผงหางปล้อง,Large Indian Civet,Viverra zibetha,82,20,102,80.4%,19.6%,110
+ชูการ์ไกลเดอร์,Sugar Glider,Petaurus breviceps,120,29,149,80.5%,19.5%,800
+ช้างเอเชีย,Asian Elephant,Elephas maximus,120,30,150,80.0%,20.0%,5605
+ดิกดิกเคิร์ก,Kirk's Dik-dik,Madoqua kirkii,120,30,150,80.0%,20.0%,1048
+ตัวกินมดยักษ์,Giant Anteater,Myrmecophaga tridactyla,120,30,150,80.0%,20.0%,1802
+ตัวกินมดหนามอิคิดนา,Short-beaked Echidna,Tachyglossus aculeatus,120,29,149,80.5%,19.5%,35182
+ตัวกินมดเล็กทามานดูอา,Southern Tamandua (Lesser Anteater),Tamandua tetradactyla,120,30,150,80.0%,20.0%,1476
+นากยุโรป,Eurasian Otter,Lutra lutra,120,29,149,80.5%,19.5%,12957
+บิ๊กฮอร์น,Bighorn Sheep,Ovis canadensis,120,30,150,80.0%,20.0%,22881
+บ็อบแคต,Bobcat,Lynx rufus,120,30,150,80.0%,20.0%,35050
+บ่าง,Sunda Flying Lemur (Malayan Colugo),Dermoptera,58,14,72,80.6%,19.4%,160913092
+พญากระรอกบินแก้มขาว,Red Giant Flying Squirrel,Petaurista petaurista,120,30,150,80.0%,20.0%,882
+พญากระรอกเหลือง,Cream-coloured Giant Squirrel,Ratufa affinis,120,30,150,80.0%,20.0%,915
+พอสซัมหางพู่,Common Brushtail Possum,Trichosurus vulpecula,119,29,148,80.4%,19.6%,21591
+พะยูน,Dugong,Dugong dugon,119,29,148,80.4%,19.6%,922
+มาราพาตาโกเนีย,Patagonian Mara,Dolichotis patagonum,120,30,150,80.0%,20.0%,679
+ม้าป่ามองโกเลีย,Przewalski's Horse,Equus ferus przewalskii,120,30,150,80.0%,20.0%,420
+ม้าลายภูเขาฮาร์ตมันน์,Hartmann's Mountain Zebra,Equus zebra hartmannae,120,30,150,80.0%,20.0%,559
+ม้าลายเกรวี,Grevy's Zebra,Equus grevyi,120,30,150,80.0%,20.0%,0
+ม้าลายเบอร์เชลล์,Plains Zebra (Burchell's Zebra),Equus quagga burchellii,120,30,150,80.0%,20.0%,3411
+ม้าแคระฟอลลาเบลลา,Falabella Miniature Horse,Equus caballus,120,30,150,80.0%,20.0%,23430
+ม้าแคระมินิเอเจอร์,American Miniature Horse,Equus caballus,120,30,150,80.0%,20.0%,23430
+ม้าแคระเชตแลนด์,Shetland Pony,Equus caballus,120,30,150,80.0%,20.0%,0
+ยีราฟ,Giraffe,Giraffa camelopardalis,120,30,150,80.0%,20.0%,1811
+ลามะ,Llama,Lama glama,120,30,150,80.0%,20.0%,0
+ลาแคระ,Miniature Donkey,Equus asinus,120,30,150,80.0%,20.0%,6228
+ลิงกังเหนือ,Northern Pig-tailed Macaque,Macaca leonina,120,30,150,80.0%,20.0%,1690
+ลิงกังใต้,Southern Pig-tailed Macaque,Macaca nemestrina,120,30,150,80.0%,20.0%,1926
+ลิงคอตตอนท็อปทามาริน,Cotton-top Tamarin,Saguinus oedipus,120,30,150,80.0%,20.0%,952
+ลิงคาปูชินหน้าขาว,White-fronted Capuchin,Cebus albifrons,96,24,120,80.0%,20.0%,0
+ลิงคาปูชินหัวดำ,Tufted Capuchin,Sapajus apella,120,30,150,80.0%,20.0%,1996
+ลิงชิมแปนซี,Chimpanzee,Pan troglodytes,120,30,150,80.0%,20.0%,0
+ลิงทามารินมือทอง,Red-handed Tamarin (Golden-handed Tamarin),Saguinus midas,120,30,150,80.0%,20.0%,332
+ลิงทามารินสิงโตทอง,Golden Lion Tamarin,Leontopithecus rosalia,119,29,148,80.4%,19.6%,330
+ลิงทามารินเอ็มเพอเรอร์,Emperor Tamarin,Saguinus imperator,119,29,148,80.4%,19.6%,153
+ลิงบาบูนกีนี,Guinea Baboon,Papio papio,120,30,150,80.0%,20.0%,379
+ลิงบาบูนฮามาดรียาส,Hamadryas Baboon,Papio hamadryas,120,30,150,80.0%,20.0%,284
+ลิงมาร์โมเซตแคระ,Pygmy Marmoset,Cebuella pygmaea,119,29,148,80.4%,19.6%,0
+ลิงมาโมเสทหูขาว,Common Marmoset,Callithrix jacchus,120,30,150,80.0%,20.0%,2839
+ลิงมาโมเสทหูพู่ดำ,Black-tufted Marmoset,Callithrix penicillata,120,30,150,80.0%,20.0%,0
+ลิงวอก,Rhesus Macaque,Macaca mulatta,120,30,150,80.0%,20.0%,7364
+ลิงอุรังอุตังบอร์เนียว,Bornean Orangutan,Pongo pygmaeus,120,30,150,80.0%,20.0%,0
+ลิงอุรังอุตังสุมาตรา,Sumatran Orangutan,Pongo abelii,120,30,150,80.0%,20.0%,0
+ลิงฮาวเลอร์ดำ,Black Howler Monkey,Alouatta caraya,120,30,150,80.0%,20.0%,1827
+ลิงเจลาดา,Gelada Baboon,Theropithecus gelada,120,30,150,80.0%,20.0%,0
+ลิงแมนดริล,Mandrill,Mandrillus sphinx,119,29,148,80.4%,19.6%,0
+ลิ่นชวา,Sunda Pangolin,Manis javanica,119,29,148,80.4%,19.6%,230
+ลีเมอร์ขาวดำ,Black-and-white Ruffed Lemur,Varecia variegata,120,30,150,80.0%,20.0%,392
+ลีเมอร์มงกุฎ,Crowned Lemur,Eulemur coronatus,120,30,150,80.0%,20.0%,0
+ลีเมอร์หางแหวน,Ring-tailed Lemur,Lemur catta,120,30,150,80.0%,20.0%,831
+วอลลาบีคอแดง,Red-necked Wallaby (Bennett's Wallaby),Notamacropus rufogriseus,120,30,150,80.0%,20.0%,0
+วัวมัสค์ออกซ์,Muskox,Ovibos moschatus,120,30,150,80.0%,20.0%,2046
+วัววาตูซี,Ankole-Watusi,Bos taurus,120,30,150,80.0%,20.0%,41275
+วัวแดง,Banteng,Bos javanicus,120,30,150,80.0%,20.0%,0
+วาฬนำร่องครีบสั้น,Short-finned Pilot Whale,Globicephala macrorhynchus,120,30,150,80.0%,20.0%,0
+วิลเดอบีสต์สีน้ำเงิน,Blue Wildebeest,Connochaetes taurinus,120,30,150,80.0%,20.0%,10221
+สปริงบอก,Springbok,Antidorcas marsupialis,120,30,150,80.0%,20.0%,0
+สมเสร็จมลายู,Malayan Tapir,Tapirus indicus,76,19,95,80.0%,20.0%,0
+สมเสร็จอเมริกาใต้,South American Tapir (Lowland Tapir),Tapirus terrestris,120,30,150,80.0%,20.0%,0
+สิงโตแอฟริกา,African Lion,Panthera leo,120,30,150,80.0%,20.0%,15113
+หมาจิ้งจอกทอง,Golden Jackal,Canis aureus,120,30,150,80.0%,20.0%,0
+หมาจิ้งจอกอาร์กติก,Arctic Fox,Vulpes lagopus,120,30,150,80.0%,20.0%,0
+หมาจิ้งจอกแดง,Red Fox,Vulpes vulpes,120,30,150,80.0%,20.0%,0
+หมาป่าแอฟริกา,African Wild Dog,Lycaon pictus,119,29,148,80.4%,19.6%,0
+หมาไม้หลังเหลือง,Yellow-throated Marten,Martes flavigula,120,30,150,80.0%,20.0%,0
+หมีขอ,Binturong (Bearcat),Arctictis binturong,119,29,148,80.4%,19.6%,0
+หมีควาย,Asian Black Bear,Ursus thibetanus,120,30,150,80.0%,20.0%,338
+หมีสีน้ำตาล,Brown Bear,Ursus arctos,120,30,150,80.0%,20.0%,0
+หมูป่าหน้าหูด,Wild Boar,Sus scrofa,120,30,150,80.0%,20.0%,73178
+อีเห็นข้างลาย,Common Palm Civet,Paradoxurus hermaphroditus,120,30,150,80.0%,20.0%,1873
+อีเห็นลายเสือ,Banded Palm Civet,Hemigalus derbyanus,98,24,122,80.3%,19.7%,126
+อีเห็นหน้าขาว,Masked Palm Civet (Gem-faced Civet),Paguma larvata,120,30,150,80.0%,20.0%,0
+อีเห็นเครือ,Small-toothed Palm Civet,Arctogalidia trivirgata,120,30,150,80.0%,20.0%,420
+อูฐกัวนาโก,Guanaco,Lama guanicoe,120,30,150,80.0%,20.0%,4100
+อูฐบิคูญา,Vicuna,Vicugna vicugna,120,30,150,80.0%,20.0%,0
+อูฐสองโหนก,Bactrian Camel,Camelus bactrianus,120,30,150,80.0%,20.0%,0
+อูฐหนอกเดียว,Dromedary Camel,Camelus dromedarius,120,30,150,80.0%,20.0%,0
+ฮาร์ทีบีสต์,Hartebeest (Kongoni),Alcelaphus buselaphus,120,30,150,80.0%,20.0%,2761
+ฮิปโปโปเตมัส,Hippopotamus,Hippopotamus amphibius,120,30,150,80.0%,20.0%,11961
+เก้งธรรมดา,Red Muntjac (Barking Deer),Muntiacus muntjak,120,30,150,80.0%,20.0%,1937
+เก้งเผือก,Albino Barking Deer,Muntiacus muntjak (Albino),120,30,150,80.0%,20.0%,1937
+เซียมัง,Siamang,Symphalangus syndactylus,120,30,150,80.0%,20.0%,472
+เนื้อทราย,Hog Deer,Axis porcinus,120,30,150,80.0%,20.0%,802
+เมียร์แคต,Meerkat,Suricata suricatta,120,30,150,80.0%,20.0%,1158
+เม่นแคระสี่นิ้ว,Four-toed Hedgehog (African Pygmy Hedgehog),Atelerix albiventris,120,30,150,80.0%,20.0%,0
+เลียงผาใต้,Sumatran Serow (Mainland Serow),Capricornis sumatraensis,120,30,150,80.0%,20.0%,488
+เสือคูการ์,Cougar (Puma / Mountain Lion),Puma concolor,120,30,150,80.0%,20.0%,11721
+เสือจากัวรันดี,Jaguarundi,Herpailurus yagouaroundi,120,30,150,80.0%,20.0%,861
+เสือจากัวร์,Jaguar,Panthera onca,120,30,150,80.0%,20.0%,0
+เสือชีตาห์,Cheetah,Acinonyx jubatus,120,30,150,80.0%,20.0%,0
+เสือดาว,Leopard / Black Panther,Panthera pardus,120,30,150,80.0%,20.0%,7325
+เสือปลา,Fishing Cat,Prionailurus viverrinus,70,17,87,80.5%,19.5%,100
+แกะบาร์บารี,Barbary Sheep,Ammotragus lervia,120,30,150,80.0%,20.0%,1350
+แพนด้าแดง,Red Panda,Ailurus fulgens,90,22,112,80.4%,19.6%,136
+แพรรีด็อกหางดำ,Black-tailed Prairie Dog,Cynomys ludovicianus,120,30,150,80.0%,20.0%,0
+แพะแคระแอฟริกา,African Pygmy Goat,Capra hircus,120,30,150,80.0%,20.0%,8020
+แมวน้ำเคปเฟอร์ซีล,Cape Fur Seal,Arctocephalus pusillus,120,30,150,80.0%,20.0%,0
+แมวป่า,Serval,Leptailurus serval,120,30,150,80.0%,20.0%,1212
+แมวป่าเซอร์วัล,Serval,Leptailurus serval,120,30,150,80.0%,20.0%,1212
+แรดอินเดีย,Indian Rhinoceros,Rhinoceros unicornis,120,30,150,80.0%,20.0%,1289
+แอนทิโลปคูดูใหญ่,Greater Kudu,Tragelaphus strepsiceros,120,30,150,80.0%,20.0%,9647
+แอนทิโลปพูกู,Puku,Kobus vardonii,120,30,150,80.0%,20.0%,634
+แอนทิโลปรีดบัค,Bohor Reedbuck,Redunca redunca,120,30,150,80.0%,20.0%,0
+แอนทิโลปอีแลนด์,Common Eland,Taurotragus oryx,120,30,150,80.0%,20.0%,0
+แอนทิโลปเจเรนุค,Gerenuk (Waller's Gazelle),Litocranius walleri,120,30,150,80.0%,20.0%,764
+แอนทิโลปเซเบิล,Sable Antelope,Hippotragus niger,120,30,150,80.0%,20.0%,1597
+แอนทิโลปโทปิ,Topi (Damaliscus),Damaliscus lunatus jimela,120,30,150,80.0%,20.0%,1774
+แอนทิโลปโรน,Roan Antelope,Hippotragus equinus,120,30,150,80.0%,20.0%,1819
+แอนทิโลปไนยาลา,Nyala,Tragelaphus angasii,120,30,150,80.0%,20.0%,4197
+โคอาติหางวงแหวน,South American Coati,Nasua nasua,120,30,150,80.0%,20.0%,4296
+โคอาลา,Koala,Phascolarctos cinereus,120,30,150,80.0%,20.0%,41429
+โลมาปากขวด,Common Bottlenose Dolphin,Tursiops truncatus,120,30,150,80.0%,20.0%,0
+โลมาฟราเซอร์,Fraser's Dolphin,Lagenodelphis hosei,80,20,100,80.0%,20.0%,0
+โลมาฟันห่าง,Rough-toothed Dolphin,Steno bredanensis,120,30,150,80.0%,20.0%,282
+โลมาแถบ,Striped Dolphin,Stenella coeruleoalba,120,30,150,80.0%,20.0%,0
+โอริกซ์เบซา,Gemsbok (Oryx),Oryx gazella,120,30,150,80.0%,20.0%,0
+ไอเบกซ์นูเบีย,Nubian Ibex,Capra nubiana,120,30,150,80.0%,20.0%,771
+ไฮยีนาลายจุด,Spotted Hyena,Crocuta crocuta,120,30,150,80.0%,20.0%,7871
+ไฮแรกซ์หิน,Rock Hyrax,Procavia capensis,120,30,150,80.0%,20.0%,7512
