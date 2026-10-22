@@ -22,7 +22,9 @@ docs/
  │
  ├── 🏛️ ข้อมูลวารสารและการส่งตีพิมพ์ (Journal Analysis & Submission Package)
  │    ├── 📄 target_journal_analysis_easr.md <-- ผลการวิเคราะห์วารสาร EASR (Scopus Q3, ค่า APC, เกณฑ์ประเมิน)
- │    └── 📄 easr_submission_package.md  <-- ร่าง Cover Letter, รายชื่อ 3 Reviewers บังคับ, วิธีตั้งค่า Word
+ │    ├── 📄 easr_submission_package.md  <-- ร่าง Cover Letter, รายชื่อ 3 Reviewers บังคับ, วิธีตั้งค่า Word
+ │    ├── 📄 peer_review_simulation.md   <-- รายงานจำลองการตรวจประเมินแบบเข้มข้น (Major Revision) และแนวทางตอบ Rebuttal
+ │    └── 📄 revision_action_log.md      <-- บันทึกสถานะการแก้ไขบทความ (Zero Data Fabrication): สรุปสิ่งที่แก้และไม่แก้พร้อมเหตุผล
  │
  ├── 🔍 การตรวจสอบความถูกต้องทางวิชาการ (Academic Integrity & References)
  │    └── 📄 references_audit_report.md  <-- ตารางตรวจสอบบรรณานุกรม 15 รายการ (Zero Hallucination, DOI จริง)
@@ -50,22 +52,30 @@ docs/
 - **บทบาท**: เอกสารบทความวิจัยฉบับภาษาไทยที่มีเนื้อหา โครงสร้าง IMRaD 7 ส่วน ข้อมูลสถิติ ตาราง และภาพประกอบขนานกับ [paper_en.md](./paper_en.md) แบบ 1:1
 - **ประโยชน์**: ใช้สำหรับนำเสนอในประเทศ การรายงานผลงานวิจัยต่อสถาบัน และใช้อ้างอิงร่วมกับอาจารย์ที่ปรึกษา/คณะผู้วิจัย
 
-### 3. [references_audit_report.md](./references_audit_report.md) — รายงานตรวจสอบความถูกต้องของบรรณานุกรม
-- **บทบาท**: ตรวจสอบและพิสูจน์ความมีอยู่จริง (Zero Hallucination) ของเอกสารอ้างอิงทั้ง 15 รายการ ผ่านฐานข้อมูลสากล (IEEE, Elsevier, PNAS, Wiley, Springer, PMLR, arXiv, GBIF, IUCN)
-- **ประเด็นสำคัญ**: บันทึกประวัติการแก้ไขข้อผิดพลาดของ DOI และชื่อบทความในฉบับร่างเดิม (เช่น Schneider 2018, Gómez-Villa 2017, Sandler 2018 MobileNetV2) ยืนยันว่าทุกรายการในเปเปอร์มีอยู่จริงและคลิกเปิดได้ 100%
+### 3. [revision_action_log.md](./revision_action_log.md) — บันทึกสถานะการแก้ไขบทความ (Zero Data Fabrication Protocol) 🛡️
+- **บทบาท**: แผนกลยุทธ์การปรับปรุงบทความทางวิชาการโดยปราศจากการสร้างข้อมูลเท็จ สรุปชัดเจนว่า **แก้อะไรบ้างแล้ว** และ **ไม่แก้อะไร/ไม่ทดลองเพิ่ม พร้อมเหตุผลทางวิชาการและแนวทางตอบแก้ต่าง**
+- **ประโยชน์**: เป็นแนวทางป้องกันการถูกปฏิเสธบทความหรือถูกถอดถอนจากข้อหาปลอมแปลงข้อมูล (Zero Fabrication of Top-5 or Latency)
 
-### 4. [easr_submission_package.md](./easr_submission_package.md) — ชุดเอกสารและคู่มือนำส่งวารสาร
+### 4. [peer_review_simulation.md](./peer_review_simulation.md) — รายงานจำลองการประเมินแบบเข้มข้น (Peer Review Simulation) 🥊
+- **บทบาท**: จำลองบทบาทผู้ทรงคุณวุฒิ (Reviewer) สายนานาชาติตรวจคอมเมนต์งานวิจัยแบบเจาะลึก เผยให้เห็นจุดเสี่ยงสำคัญ พร้อมร่างจดหมายตอบอย่างเป็นทางการ (Formal Response to Reviewers Template)
+- **ประโยชน์**: มีตารางกลยุทธ์การตอบข้อวิจารณ์ (Author Rebuttal Strategy Table) เพื่อให้ผู้วิจัยใช้เตรียมตัวป้องกันการถูกปฏิเสธบทความ
+
+### 5. [references_audit_report.md](./references_audit_report.md) — รายงานตรวจสอบความถูกต้องของบรรณานุกรม
+- **บทบาท**: ตรวจสอบและพิสูจน์ความมีอยู่จริง (Zero Hallucination) ของเอกสารอ้างอิงทั้ง 15 รายการ ผ่านฐานข้อมูลสากล (IEEE, Elsevier, PNAS, Wiley, Springer, PMLR, arXiv, GBIF, IUCN)
+- **ประเด็นสำคัญ**: บันทึกประวัติการแก้ไขข้อผิดพลาดของ DOI และชื่อบทความในฉบับร่างเดิม ยืนยันว่าทุกรายการในเปเปอร์มีอยู่จริงและคลิกเปิดได้ 100%
+
+### 6. [easr_submission_package.md](./easr_submission_package.md) — ชุดเอกสารและคู่มือนำส่งวารสาร
 - **บทบาท**: รวบรวมข้อมูลและเทมเพลตที่พร้อมคัดลอกไปใช้ในระบบ ThaiJO ของ EASR ทันที:
   - **Cover Letter Template**: จดหมายนำส่งถึงบรรณาธิการ เน้นย้ำจุดเด่นด้าน Applied Technology และ Edge AI
   - **Mandatory Suggested Reviewers**: รายชื่อผู้ประเมินบทความ 3 ท่านตามกฎเหล็กของ EASR (ผู้เชี่ยวชาญไทย 1 ท่าน, ต่างประเทศ 2 ท่าน) พร้อมอีเมลสถาบัน
   - **Word Formatting Guide**: คู่มือการจัดหน้า Microsoft Word (A4, 12pt, Double Spacing, Continuous Line Numbers)
   - **Pre-Submission Checklist**: รายการตรวจสอบความพร้อมขั้นตอนสุดท้าย
 
-### 5. [target_journal_analysis_easr.md](./target_journal_analysis_easr.md) — บทวิเคราะห์วารสารเป้าหมาย
+### 7. [target_journal_analysis_easr.md](./target_journal_analysis_easr.md) — บทวิเคราะห์วารสารเป้าหมาย
 - **บทบาท**: ข้อมูลเชิงลึกของวารสาร *Engineering and Applied Science Research (EASR)*
 - **ข้อมูลสำคัญ**: ขอบเขตวารสาร (Aims & Scope), ดัชนี Scopus Q3 / TCI กลุ่ม 1, อัตราค่าธรรมเนียมการตีพิมพ์ (APC 7,000 บาท จ่ายเมื่อได้รับการตอบรับเท่านั้น), วงรอบการออก 6 ฉบับต่อปี และกลยุทธ์การตอบรับบทความ
 
-### 6. [Mammals.md](./Mammals.md) — เอกสารเทคนิคและการแจกแจงชุดข้อมูล
+### 8. [Mammals.md](./Mammals.md) — เอกสารเทคนิคและการแจกแจงชุดข้อมูล
 - **บทบาท**: เอกสารอธิบายระเบียบวิธีวิจัย การทำงานของ Smart Hybrid Acquisition และ **ตารางแจกแจงจำนวนภาพถ่ายของสัตว์ทั้ง 162 ชนิดพันธุ์ (23,674 ภาพ)** ครบทุกคลาส (ชุดฝึกสอน 18,957 ภาพ และชุดตรวจสอบ 4,717 ภาพ)
 
 ---
